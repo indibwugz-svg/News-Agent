@@ -102,7 +102,7 @@ def parse_markdown_news(md_file_path):
     
     return info
 
-def generate_rss_xml(news_info, category, base_url="https://your-domain.com"):
+def generate_rss_xml(news_info, category, base_url="https://indibwugz-svg.github.io/News-Agent/"):
     """
     生成RSS XML内容
     

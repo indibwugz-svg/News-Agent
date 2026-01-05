@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Nov 2025 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2025 08:29:58 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 05:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 05:44:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,95 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>商汤日日新开源模型实现空间智能性能突破，多项评测领先 GPT-5</title>
-      <link>https://www.qbitai.com/2025/11/351028.html</link>
-      <description>&lt;![CDATA[商汤日日新开源模型实现空间智能性能突破，多项评测领先 GPT-5]]&gt;</description>
-      <pubDate>Tue, 11 Nov 2025 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/351028.html</guid>
+      <title>从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-10</link>
+      <description>&lt;![CDATA[从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Model 3/Y负责人双双辞职！就在马斯克自己涨完薪之后</title>
-      <link>https://www.qbitai.com/2025/11/350996.html</link>
-      <description>&lt;![CDATA[Model 3/Y负责人双双辞职！就在马斯克自己涨完薪之后]]&gt;</description>
-      <pubDate>Tue, 11 Nov 2025 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350996.html</guid>
+      <title>AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-8</link>
+      <description>&lt;![CDATA[AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>前OpenAI CTO押注的赛道，被中国团队抢先跑通，AI「下半场」入场券人人有份</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-6</link>
+      <description>&lt;![CDATA[前OpenAI CTO押注的赛道，被中国团队抢先跑通，AI「下半场」入场券人人有份]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-2</link>
+      <description>&lt;![CDATA[微信炼出扩散语言模型，实现vLLM部署AR模型3倍加速，低熵场景超10倍]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-2</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04</link>
+      <description>&lt;![CDATA[陶哲轩：AI让数学进入「工业化」时代，数学家也可以是「包工头」]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 01:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>OpenAI首款硬件定型为笔！网友：就叫oPen吧</title>
+      <link>https://www.qbitai.com/2026/01/366531.html</link>
+      <description>&lt;![CDATA[OpenAI首款硬件定型为笔！网友：就叫oPen吧]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366531.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>百度AI芯片公司冲刺IPO：出货量国产第二</title>
+      <link>https://www.qbitai.com/2026/01/366454.html</link>
+      <description>&lt;![CDATA[百度AI芯片公司冲刺IPO：出货量国产第二]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366454.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>](https://www.qbitai.com/2025/11/348474.html)
+**发布时间**: 2025-11-03 10:27
+
+---
+
+## 🆕 最新更新 (2025-11-04 05:20)
+### 📰 来源: [量子位</title>
+      <link>https://www.qbitai.com/feed</link>
+      <description>&lt;![CDATA[](https://www.qbitai.com/2025/11/348474.html)
+**发布时间**: 2025-11-03 10:27
+
+---
+
+## 🆕 最新更新 (2025-11-04 05:20)
+### 📰 来源: [量子位]]&gt;</description>
+      <pubDate>Mon, 05 Jan 2026 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/feed</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-12</link>
+      <description>&lt;![CDATA[田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-12</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>科研人福音！一键生成PPT和科研绘图，北大开源Paper2Any，全流程可编辑</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-04-11</link>
+      <description>&lt;![CDATA[科研人福音！一键生成PPT和科研绘图，北大开源Paper2Any，全流程可编辑]]&gt;</description>
+      <pubDate>Sun, 04 Jan 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-04-11</guid>
       <category>AI</category>
     </item>
   </channel>

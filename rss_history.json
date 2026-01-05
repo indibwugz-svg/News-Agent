@@ -168,6 +168,30 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Mon, 05 Jan 2026 08:40:00 GMT",
         "first_seen": "2026-01-05T08:41:24.414058"
+      },
+      "64f15f29f23954a0870fc7d45438af713b973ef0fc8baab89884f6b0446a2196": {
+        "title": "AI Shortlist上线｜研究值得关注的AI企业",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-8",
+        "published_date": "Mon, 05 Jan 2026 18:06:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.008118"
+      },
+      "a15749e1468b6115ff2844da504613704a9c4cc4ea172d5c7d940edfed3e69ff": {
+        "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-7",
+        "published_date": "Mon, 05 Jan 2026 17:09:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.008284"
+      },
+      "1432f6f345f873f7d552d2d5d781a9a40263bd9e0a4a6b22b2959df30ece16f6": {
+        "title": "空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-05-6",
+        "published_date": "Mon, 05 Jan 2026 17:04:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.008477"
+      },
+      "30b3434353deae15e7deb7982dd1ebdd8e15e22fbbc704fef2c842345de368ed": {
+        "title": "悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少",
+        "link": "https://www.qbitai.com/2026/01/366593.html",
+        "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.008750"
       }
     },
     "Technology": {
@@ -578,13 +602,121 @@
         "link": "http://www.huxiu.com/article/4822781.html?f=wangzhan",
         "published_date": "Mon, 05 Jan 2026 14:30:00 GMT",
         "first_seen": "2026-01-05T08:41:33.836325"
+      },
+      "35fae7726dad399663c2c2b70bd7f6fc635aeddffeb8188a165fec29d3e28fd5": {
+        "title": "【钛晨报】证监会新年首会，重拳出击财务造假；2026存储涨价第一枪：三星、海力士DRAM报价上调70%；高盛：建议高配中国股票",
+        "link": "https://www.tmtpost.com/7831736.html",
+        "published_date": "Tue, 06 Jan 2026 07:20:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401416"
+      },
+      "87e42766a9b9153af6c2afd595a9067f1db6989844a5df7f2e2e2b0b9efcf0ef": {
+        "title": "兴齐眼药“近视神药”独有规格获批，“唯一性”护城河能扛住竞品围猎吗？",
+        "link": "https://www.tmtpost.com/7831751.html",
+        "published_date": "Mon, 05 Jan 2026 21:51:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401427"
+      },
+      "cab51bd1e47d689c41736a4454b0d788467256e3ba728bfc9c53582a2e4f0052": {
+        "title": "中国家电，再战世界杯",
+        "link": "https://www.tmtpost.com/7831533.html",
+        "published_date": "Mon, 05 Jan 2026 19:04:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401435"
+      },
+      "c53baf235d67ff3354ffe8808aa18cd36d581c0b032c07ee061521cb6714bb6d": {
+        "title": "追觅有“乐视”野心，但造车是一道难迈的坎儿",
+        "link": "https://www.tmtpost.com/7831255.html",
+        "published_date": "Mon, 05 Jan 2026 19:03:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401445"
+      },
+      "548df50e789ee9579bb4fe84bb8ab268cfcb209bca40c7f2dbf466ca2ad3debb": {
+        "title": "新茶饮2026：一半是深海，一半是远洋",
+        "link": "https://www.tmtpost.com/7831482.html",
+        "published_date": "Mon, 05 Jan 2026 19:01:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401453"
+      },
+      "8a5f23d25167ae792bf2e6eb9e482e465193e0c81b540308bc555a871619e984": {
+        "title": "HBF、HMC等四大存储，谁能力敌HBM",
+        "link": "https://www.tmtpost.com/7831517.html",
+        "published_date": "Mon, 05 Jan 2026 18:59:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401460"
+      },
+      "6cbc630642a7450105e302d7f788c84cff8ddcc6a70e3f418d8f7f6c4575201d": {
+        "title": "收购“Manus”也治不好大厂的焦虑症",
+        "link": "https://www.tmtpost.com/7831519.html",
+        "published_date": "Mon, 05 Jan 2026 18:56:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401467"
+      },
+      "016451c866a4353fe7267ba61caa36791f1d6f9744704f4296ae0eb519045ff9": {
+        "title": "低空经济梦碎，木林森的下一个增长点在哪？",
+        "link": "https://www.tmtpost.com/7831355.html",
+        "published_date": "Mon, 05 Jan 2026 18:56:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401474"
+      },
+      "d09bfa85f8bd0be298fc6e499622182434dc2a588bd29b861478a19f2e60f6e8": {
+        "title": "求同不忘存异，酒店行业站在分化转型的十字路口上｜行业风向标",
+        "link": "https://www.tmtpost.com/7831485.html",
+        "published_date": "Mon, 05 Jan 2026 18:11:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.060440"
+      },
+      "6c0d93568a20bf4031f322991cb9beff156bcecddfaca82f8e3de0b361033f6c": {
+        "title": "三只松鼠被困在网上",
+        "link": "https://www.tmtpost.com/7831338.html",
+        "published_date": "Mon, 05 Jan 2026 18:04:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.060658"
+      },
+      "0cb9144741f11997e94db11c6ef0ee64fe581e34c048b5f56649e1a1066a8185": {
+        "title": "烧钱、互搏与淘汰赛：地平线和Momenta走到决赛圈了吗？",
+        "link": "https://www.tmtpost.com/7831254.html",
+        "published_date": "Mon, 05 Jan 2026 18:03:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.061098"
+      },
+      "a9e2558d1fd3fa872ec270d994115348534d0979889a8e82c7b4173d3424c366": {
+        "title": "招聘泄露天机，特斯拉FSD即将破局？",
+        "link": "https://www.tmtpost.com/7831187.html",
+        "published_date": "Mon, 05 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.061437"
+      },
+      "589defd109cb96d178c4a2d7a0c2e8a6512a06a1867fb4897af03fabd9868dfd": {
+        "title": "从拥硅为王到去银为王，谁将成为新一轮光伏周期的王者？",
+        "link": "https://www.tmtpost.com/7831082.html",
+        "published_date": "Mon, 05 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.061906"
+      },
+      "99f91c149779df87f1d0ffcd054b24616158e825d0e76e476d5f9691c4de8ee7": {
+        "title": "宇树辟谣传闻",
+        "link": "https://www.tmtpost.com/7831188.html",
+        "published_date": "Mon, 05 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.062134"
+      },
+      "d29e91a3eb9931ca2cffb3a5f633eeee21bbd45d34f1595a706253df2768141d": {
+        "title": "从“技术实验”走向“价值落地”，企业级AI规模化应用破局丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7831004.html",
+        "published_date": "Mon, 05 Jan 2026 16:55:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401375"
+      },
+      "d654f30fcd931605535ab99e7668d19b4d907155cb88cbdd2dd0ff5a6e89d9bf": {
+        "title": "2026“企业Agent上岗元年”？零一万物六大判断定义企业多智能体，不再沿用大厂标准化产品模式”",
+        "link": "https://www.infoq.cn/article/8lkAlTOp8etL1u8LGmxq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 18:33:00 GMT",
+        "first_seen": "2026-01-05T23:27:08.401402"
+      },
+      "b1852e2e49660dee3ac37a3f57d08c9c6f651e5612e567ccebb6ad6b187a7db7": {
+        "title": "免费云开发资源，1亿混元token额度！腾讯重磅推出AI小程序成长计划",
+        "link": "https://www.infoq.cn/article/ylOYgIWfCZ6LOuAd6XwN?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Jan 2026 16:47:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.064632"
+      },
+      "0157103279efbe3089b876a243dc1953e2bd4a67f7bcfc36ae20eca3b4be4703": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/105171",
+        "published_date": "Mon, 05 Jan 2026 17:55:00 GMT",
+        "first_seen": "2026-01-05T23:26:59.065210"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-05T08:41:24.432153",
-    "Technology": "2026-01-05T08:41:33.839716",
-    "Finance": "2026-01-05T08:41:24.303846"
+    "AI": "2026-01-05T23:26:59.029285",
+    "Technology": "2026-01-05T23:27:08.402927",
+    "Finance": "2026-01-05T23:26:58.911654"
   }
 }

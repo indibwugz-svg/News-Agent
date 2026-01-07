@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 23:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 23:26:52 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 08:37:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 08:38:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-10</link>
-      <description>&lt;![CDATA[英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 20:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-10</guid>
+      <title>大模型最难的AI Infra，用Vibe Coding搞定</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-4</link>
+      <description>&lt;![CDATA[大模型最难的AI Infra，用Vibe Coding搞定]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-4</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>密瓜智能获数千万元天使轮融资：植根开源基因，驱动异构算力效率跃升</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-9</link>
-      <description>&lt;![CDATA[密瓜智能获数千万元天使轮融资：植根开源基因，驱动异构算力效率跃升]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-9</guid>
+      <title>首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书</title>
+      <link>https://www.qbitai.com/2026/01/367242.html</link>
+      <description>&lt;![CDATA[首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367242.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-8</link>
-      <description>&lt;![CDATA[刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-8</guid>
+      <title>AAAI 2026 新加坡在吗？中国电信 TeleAI 邀你晚宴</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-7</link>
+      <description>&lt;![CDATA[AAAI 2026 新加坡在吗？中国电信 TeleAI 邀你晚宴]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>独家解读｜2025年AI五大趋势与底层数据革命</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-7</link>
-      <description>&lt;![CDATA[独家解读｜2025年AI五大趋势与底层数据革命]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-7</guid>
+      <title>OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-5</link>
+      <description>&lt;![CDATA[OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-5</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>开源1万小时具身智能数据，这家公司是为了什么？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-6</link>
-      <description>&lt;![CDATA[开源1万小时具身智能数据，这家公司是为了什么？]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-6</guid>
+      <title>曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-2</link>
+      <description>&lt;![CDATA[曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-2</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-06-5</link>
-      <description>&lt;![CDATA[别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-06-5</guid>
+      <title>8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队</title>
+      <link>https://www.qbitai.com/2026/01/367229.html</link>
+      <description>&lt;![CDATA[8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367229.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>宝马开年直降30万上热搜，30万以下车型多出7款</title>
-      <link>https://www.qbitai.com/2026/01/367094.html</link>
-      <description>&lt;![CDATA[宝马开年直降30万上热搜，30万以下车型多出7款]]&gt;</description>
-      <pubDate>Tue, 06 Jan 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/367094.html</guid>
+      <title>分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-9</link>
+      <description>&lt;![CDATA[分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-9</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-8</link>
+      <description>&lt;![CDATA[重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-8</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-6</link>
+      <description>&lt;![CDATA[多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-6</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-07-3</link>
+      <description>&lt;![CDATA[注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案]]&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-07-3</guid>
       <category>AI</category>
     </item>
   </channel>

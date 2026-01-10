@@ -630,6 +630,12 @@
         "link": "https://www.qbitai.com/2026/01/368820.html",
         "published_date": "Sat, 10 Jan 2026 01:27:00 GMT",
         "first_seen": "2026-01-10T05:27:50.824529"
+      },
+      "cb38d6447051521240c98a48762bed2d2000f426fefd23b783c6754b4dd6e4b0": {
+        "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
+        "link": "https://www.qbitai.com/2026/01/368834.html",
+        "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.124553"
       }
     },
     "Technology": {
@@ -2900,13 +2906,43 @@
         "link": "https://sspai.com/post/105308",
         "published_date": "Sat, 10 Jan 2026 11:00:00 GMT",
         "first_seen": "2026-01-10T05:27:50.935761"
+      },
+      "0fd395433360a9f6c9ed7b144318127606f442a55ad8d66b36d48986287651db": {
+        "title": "快手AI可以更稳点",
+        "link": "https://www.tmtpost.com/7837543.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.212939"
+      },
+      "3987b68c1aa36e027f371ec038521a62f7a0ce9aebb7b57dbe1c6fb2cf4a5d1f": {
+        "title": "美国斩杀线vs云南秋那桶",
+        "link": "https://www.tmtpost.com/7837551.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.213049"
+      },
+      "fb48fa40c4cb8aee144947501ba59186ac04ba5548fc4ae6fbc93f5f28a6ce3b": {
+        "title": "大疆忙着抢别人地盘，影石却来偷家了",
+        "link": "https://www.tmtpost.com/7837782.html",
+        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.213156"
+      },
+      "c828350ed27acd9973a36dd3a1b04c8036f3de59e9e1d9a96863ddb1c8629d60": {
+        "title": "RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地",
+        "link": "https://www.tmtpost.com/7837893.html",
+        "published_date": "Sat, 10 Jan 2026 13:24:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.213358"
+      },
+      "6c8ecb350fc159a1c87b548895f997568890b180721d29360b9ad42e7d4f9e44": {
+        "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
+        "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
+        "first_seen": "2026-01-10T08:33:08.213633"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-10T05:27:50.854680",
-    "Technology": "2026-01-10T05:28:00.176699",
-    "Finance": "2026-01-10T05:27:50.719558"
+    "AI": "2026-01-10T08:33:08.150943",
+    "Technology": "2026-01-10T08:33:08.221128",
+    "Finance": "2026-01-10T08:33:08.017065"
   }
 }

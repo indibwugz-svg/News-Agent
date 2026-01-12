@@ -756,6 +756,48 @@
         "link": "https://www.qbitai.com/2026/01/369041.html",
         "published_date": "Mon, 12 Jan 2026 04:53:00 GMT",
         "first_seen": "2026-01-12T05:34:49.172714"
+      },
+      "bef64b9031a6aaff0c4115496f30e47cb2ae6f7438a39d70ea0589d50206471f": {
+        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
+        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.950703"
+      },
+      "34879fd9577d23728fc7f2a65ecb2a0b2fca6838c5289ca07d2289f42b95c3ea": {
+        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.950894"
+      },
+      "cde740630be1cf4d2d869f34bbdd48e4c97fef242c44cc1a0a8a0f79786cc901": {
+        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
+        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.951081"
+      },
+      "81cc439cd3715a063b589d45ba4da5a80f369ca3bcc3bde0fb9326710afbb8a9": {
+        "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
+        "link": "https://www.qbitai.com/2026/01/369107.html",
+        "published_date": "Mon, 12 Jan 2026 08:06:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.951391"
+      },
+      "59c04af2c7f38fe2f3124d1a0f5e55431df0b93037ddcf19e9e3545ea5f7ef0f": {
+        "title": "KAN一作刘子鸣回国任教，清华官网盖章认证了",
+        "link": "https://www.qbitai.com/2026/01/369187.html",
+        "published_date": "Mon, 12 Jan 2026 07:53:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.951628"
+      },
+      "6ffe040d98be4938adbb88e535f5a8b38d67c25838672985bba5978697d8de82": {
+        "title": "暴跌12.5%，宝马在中国卖不动了",
+        "link": "https://www.qbitai.com/2026/01/369157.html",
+        "published_date": "Mon, 12 Jan 2026 07:45:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.951933"
+      },
+      "af9c25a4668d117e095407b7a5e79d03bebd2815329a30f04588144dd75fca8d": {
+        "title": "具身智能开年最大融资，字节红杉领投10亿",
+        "link": "https://www.qbitai.com/2026/01/369147.html",
+        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
+        "first_seen": "2026-01-12T08:39:45.952227"
       }
     },
     "Technology": {
@@ -3470,13 +3512,79 @@
         "link": "https://www.infoq.cn/article/EbQ24746fmKpCj7qJmIZ?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 12 Jan 2026 09:55:00 GMT",
         "first_seen": "2026-01-12T05:34:49.269526"
+      },
+      "a4e4fa8a71d664c4323ce7ffde79f3ee787f38d426fb210214d9d052f692fe77": {
+        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
+        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460617"
+      },
+      "2be8c69f2b53f7e7750d7230d7b54def10f0578c5bcbfd52ee37881bffeaccd5": {
+        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
+        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460588"
+      },
+      "1160b0ec4f252159d5f3e1a649f2c4e3ca18e2c407413efe93e749bd006ad5c5": {
+        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
+        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460636"
+      },
+      "ca7eece8df9475e36b7032fc8fc729c0b6a9ae0ab68ba2adb8ffe81f20f59dc9": {
+        "title": "“死了么”APP爆火，3人开发成本1500元：不改名；姚顺雨入职腾讯后首发声；微软本月大裁员，至少涉1.1 万人；字节实习生全面涨薪 | AI周报",
+        "link": "https://www.infoq.cn/article/OVgxgVu4Tph8UfgKshIv?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460654"
+      },
+      "ead2719b867ef72d5a2d60b50fdb4b77d96b3bcd429153565241da62e6d148d6": {
+        "title": "测试人员可以做些什么来确保软件安全",
+        "link": "https://www.infoq.cn/article/aWcsjzxXhQcwf3hgWkz2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460664"
+      },
+      "c9c1f684e31bd4a3afe9d76f44142855642eccaac271749a33c75e6552631937": {
+        "title": "代理式终端——如何使用CLI智能体激活你的终端",
+        "link": "https://www.infoq.cn/article/t712SX2KtxLUAF9rZZ6y?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Jan 2026 14:09:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460675"
+      },
+      "1e2ffc9e4721ecde62f8b679e74cfa23859edb21f05f3ffb7b74efefbb19af97": {
+        "title": "二手高奢与本土新锐夹击，轻奢品牌如何反攻？",
+        "link": "https://www.tmtpost.com/7839010.html",
+        "published_date": "Mon, 12 Jan 2026 15:21:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460687"
+      },
+      "7cd89c2645c2f4e926e6d1a740622612580ab39d3dd6e9747e4f63124665eb86": {
+        "title": "这个春节，海南酒店市场稳了",
+        "link": "https://www.tmtpost.com/7838994.html",
+        "published_date": "Mon, 12 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460698"
+      },
+      "73934a95a45e239992a9d30cb22f9a2b668d6ecaa474d81c2e5046e6052b91f6": {
+        "title": "2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察",
+        "link": "https://www.tmtpost.com/7838702.html",
+        "published_date": "Mon, 12 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460711"
+      },
+      "5c503ebe9a83437d2eea8069a0f9d8ebb1dac5ab61160148bbe8dbb5edaa4438": {
+        "title": "Physical AI Should Start Small to Earn Trust, Says Sentigent Technology CEO",
+        "link": "https://www.tmtpost.com/7839116.html",
+        "published_date": "Mon, 12 Jan 2026 13:28:00 GMT",
+        "first_seen": "2026-01-12T08:39:55.460724"
+      },
+      "c8a216ea8860057607ad5cc403620bbbdac4e6a5aae25763b352cb38f8d2d790": {
+        "title": "冬天，在济州岛跨年",
+        "link": "https://sspai.com/post/105267",
+        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-12T08:39:46.186415"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-12T05:34:49.195197",
-    "Technology": "2026-01-12T05:34:58.584582",
-    "Finance": "2026-01-12T05:34:49.067738"
+    "AI": "2026-01-12T08:39:46.124071",
+    "Technology": "2026-01-12T08:39:55.462384",
+    "Finance": "2026-01-12T08:39:45.827082"
   }
 }

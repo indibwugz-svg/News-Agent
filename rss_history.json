@@ -936,6 +936,72 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-14",
         "published_date": "Wed, 14 Jan 2026 09:26:00 GMT",
         "first_seen": "2026-01-14T05:31:15.611688"
+      },
+      "c825229233c3813a5a5e434d3ba7bf4875f8d39617cd12db92236aee5f410232": {
+        "title": "性能提升60%，英特尔Ultra3这次带来了巨大提升",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-12",
+        "published_date": "Wed, 14 Jan 2026 16:33:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373859"
+      },
+      "b8642949947fa63c0c9803ba5d9a87ed2400b9a5e5108b393d318a8f15fdf803": {
+        "title": "继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-11",
+        "published_date": "Wed, 14 Jan 2026 14:45:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373870"
+      },
+      "01a2924ea01efffee7d30f3401d6930fbcbf111ed5c001e91e4cfa7fd6aa8364": {
+        "title": "Sebastian Raschka 2026预测：Transformer统治依旧，但扩散模型正悄然崛起",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-10",
+        "published_date": "Wed, 14 Jan 2026 14:41:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373881"
+      },
+      "4696aa791a215518b9e9fb183c297808994be1f5c6b9eb51daab185d2e615fa5": {
+        "title": "端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-9",
+        "published_date": "Wed, 14 Jan 2026 14:34:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373893"
+      },
+      "9505ec5a4fc799c0b1d997c4264783a3bb5de0b4ecb14b1610b7cb26ba54175c": {
+        "title": "仅用10天？Anthropic最新智能体Cowork的代码竟然都是Claude写的",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-8",
+        "published_date": "Wed, 14 Jan 2026 14:15:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373902"
+      },
+      "57b8ff57024e3cefe86dfeb479e0635b72e64c2f462f2cdef648c1f3ef7bb51a": {
+        "title": "AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-7",
+        "published_date": "Wed, 14 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373779"
+      },
+      "d86fdc8591495e11431a2dd851304ce15ca8df259cf946b4e8d599591b9cf25e": {
+        "title": "用AI从常规病理切片重建空间蛋白图谱：基于H&E图像的高维蛋白质表达预测",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-6",
+        "published_date": "Wed, 14 Jan 2026 14:03:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373810"
+      },
+      "9771d233d6f5f0778692a2878bc91563f164712380f44857bdb93721a57c114d": {
+        "title": "Claude版Manus只用10天搓出，代码全AI写的！网友：小扎140亿并购像冤大头",
+        "link": "https://www.qbitai.com/2026/01/369377.html",
+        "published_date": "Wed, 14 Jan 2026 07:13:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373825"
+      },
+      "0d4dc8a994c3cf97e422845bfbd59a97408759d8829825dcaf59e426d74d5b7d": {
+        "title": "刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！",
+        "link": "https://www.qbitai.com/2026/01/369357.html",
+        "published_date": "Wed, 14 Jan 2026 06:49:00 GMT",
+        "first_seen": "2026-01-14T08:38:29.126027"
+      },
+      "c2d2a5c7ef8b385cb6786483e5f9283ac1e6dcb198580732a1b8268ae818fcd1": {
+        "title": "不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍",
+        "link": "https://www.qbitai.com/2026/01/369340.html",
+        "published_date": "Wed, 14 Jan 2026 06:09:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373837"
+      },
+      "4bca1286380c0256a7d64ab638e8138c67ac0aea4b060cdf89a62ffa239ea785": {
+        "title": "京东AI影视创作大赛正式开启：最高10万元奖金 千万流量扶持",
+        "link": "https://www.qbitai.com/2026/01/369337.html",
+        "published_date": "Wed, 14 Jan 2026 05:34:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.373848"
       }
     },
     "Technology": {
@@ -4406,13 +4472,139 @@
         "link": "http://www.huxiu.com/article/4825958.html?f=wangzhan",
         "published_date": "Wed, 14 Jan 2026 10:46:00 GMT",
         "first_seen": "2026-01-14T05:31:15.708674"
+      },
+      "cd3012cccb6e868a3561445b5c645883d90316a4549da89ec91ee7104a31217c": {
+        "title": "桑尼森迪赴港IPO：借《哪吒2》破圈的“平价泡泡玛特”，高增长能持续多久？",
+        "link": "https://www.tmtpost.com/7842759.html",
+        "published_date": "Wed, 14 Jan 2026 16:05:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663008"
+      },
+      "0399969cd9e7ab284325e5085a9e8467cb09ef7cb728a1e7ffcf9581cf8e4428": {
+        "title": "入场养老两年半，“新东方”还行不行？",
+        "link": "https://www.tmtpost.com/7842699.html",
+        "published_date": "Wed, 14 Jan 2026 16:05:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663019"
+      },
+      "c76f23fab1145a4284061b1d4a7850b62f066eff00905caeb5d584ff1e7b88bf": {
+        "title": "6大趋势详解：谁说手机行业没有新东西了？",
+        "link": "https://www.tmtpost.com/7842618.html",
+        "published_date": "Wed, 14 Jan 2026 16:03:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663029"
+      },
+      "c796e8902eb44dc5d83e331527e1759c2fdb87b8648be8b6a304b5a0530cc2eb": {
+        "title": "10倍股、最贵ST股扎堆后，老板们要卖卫星梦了",
+        "link": "https://www.tmtpost.com/7842663.html",
+        "published_date": "Wed, 14 Jan 2026 15:59:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663040"
+      },
+      "d981760ce01bef411f0d859b4aacdd5792fbeff5677d6aeea038f76b2b3f9a77": {
+        "title": "库克退休在即，苹果迈入“诺基亚时刻”前夜",
+        "link": "https://www.tmtpost.com/7842615.html",
+        "published_date": "Wed, 14 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663050"
+      },
+      "e45ab61de7a28e21de65ad997db1c8e77f1346b642533ea5a2263a08c3bb3280": {
+        "title": "大批Listing被亚马逊“强制上架”",
+        "link": "https://www.tmtpost.com/7842610.html",
+        "published_date": "Wed, 14 Jan 2026 15:48:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663059"
+      },
+      "5a774d5e95b0ab05298231c9d54201ad4eeb2f1675fbbb6b761aa228174ca97b": {
+        "title": "拆一拆“钱大妈”招股书，小小生鲜店到底多赚钱？",
+        "link": "https://www.tmtpost.com/7842471.html",
+        "published_date": "Wed, 14 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.663069"
+      },
+      "0c3bb5632a91bd88d48916e9a7f1bc657fad0d753b289b1a3a374f8f6e4b7886": {
+        "title": "张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？",
+        "link": "https://www.tmtpost.com/7842474.html",
+        "published_date": "Wed, 14 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.662949"
+      },
+      "1e0196d34a9b79f1d4a789e93b364fbae853227bcde1572e1585d5c0f7f2d459": {
+        "title": "零售时代演变：卖货架→卖产品→卖情绪",
+        "link": "https://www.tmtpost.com/7842670.html",
+        "published_date": "Wed, 14 Jan 2026 15:45:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.662977"
+      },
+      "1fd3398d5131144e92b8f840cd3ec9b6beb259ffde84c4aa165203a81bff4cf9": {
+        "title": "关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......",
+        "link": "https://www.tmtpost.com/7842437.html",
+        "published_date": "Wed, 14 Jan 2026 15:43:00 GMT",
+        "first_seen": "2026-01-14T08:38:47.662994"
+      },
+      "012cba45a4b0f78993ff0091841ceba037c68fd84fccbda98d5037a875b018f9": {
+        "title": "低利率时代，80万亿到期存款将流向何方？",
+        "link": "https://www.tmtpost.com/7842685.html",
+        "published_date": "Wed, 14 Jan 2026 15:41:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.485206"
+      },
+      "2d50197b75de84a0f752c4257e2b9870b6ccff3ba9de19e8f93d0bcb4c8581fb": {
+        "title": "一块布，卡了英伟达的脖子？",
+        "link": "https://www.tmtpost.com/7842377.html",
+        "published_date": "Wed, 14 Jan 2026 15:32:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.485589"
+      },
+      "f18eef28ab92bf6d3d41d91d08e0dab531fb7a64612b41c84b62495f457bab41": {
+        "title": "智谱和MiniMax，大模型的两种“活法”",
+        "link": "https://www.tmtpost.com/7842002.html",
+        "published_date": "Wed, 14 Jan 2026 14:49:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.486149"
+      },
+      "d855c7866ec44b311f2da30b39afcc5eec99194b989af709dcdb64f2f5afded3": {
+        "title": "特朗普搅动市场后，万事达卡及另外6只值得买入的金融股",
+        "link": "https://www.tmtpost.com/7842657.html",
+        "published_date": "Wed, 14 Jan 2026 14:18:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.486728"
+      },
+      "f30772b4760b11468b75571881757958cf2e76c6b99a26fd46dfe914abdd406b": {
+        "title": "卡特彼勒股票创下新高，没错，这也是人工智能的功劳",
+        "link": "https://www.tmtpost.com/7842655.html",
+        "published_date": "Wed, 14 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.487359"
+      },
+      "6b7f3e07258ec00b007712c9f3d72b8c737b51711e91610b3bf1597f265efe9b": {
+        "title": "受特朗普信用卡限价计划影响，Visa和万事达股价大跌，分析师建议买入",
+        "link": "https://www.tmtpost.com/7842652.html",
+        "published_date": "Wed, 14 Jan 2026 14:16:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.488198"
+      },
+      "1620670d5fc357d37337d293e0398cd4d951a6b82140f60f9263799d71f19ff3": {
+        "title": "速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7842451.html",
+        "published_date": "Wed, 14 Jan 2026 13:58:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.489020"
+      },
+      "bcbc2b8677c999dfb46de8f3fbe8665164632cebd00520c8665f9c9380a0aa90": {
+        "title": "PixVerse Releases World's First Real-Time World Model for Interactive Video",
+        "link": "https://www.tmtpost.com/7842608.html",
+        "published_date": "Wed, 14 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.490574"
+      },
+      "c49e65240722a3eddc17ac7f3658662d35cee74401cc22c10dcb159e70f254a7": {
+        "title": "Cloudflare通过左移安全实践扩展基础设施即代码",
+        "link": "https://www.infoq.cn/article/eNFdj9rUSIFPPl3J9Qgr?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 15:03:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.491204"
+      },
+      "c7a0a1082cdb053a19676e93b57400e0455a3f1109a0919d833db8ffbd97964d": {
+        "title": "一条视频看懂脑机接口的发展趋势",
+        "link": "http://www.huxiu.com/article/4826154.html?f=wangzhan",
+        "published_date": "Wed, 14 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.491775"
+      },
+      "993a4570e6de84785606a36feab5ef1def740522ccdcc4813a2f65195fc0756b": {
+        "title": "“死了么”其实是一门好生意",
+        "link": "http://www.huxiu.com/article/4826081.html?f=wangzhan",
+        "published_date": "Wed, 14 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-14T08:38:38.492404"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-14T05:31:15.636457",
-    "Technology": "2026-01-14T05:31:24.966782",
-    "Finance": "2026-01-14T05:31:15.502045"
+    "AI": "2026-01-14T08:38:38.416191",
+    "Technology": "2026-01-14T08:38:47.666486",
+    "Finance": "2026-01-14T08:38:29.014903"
   }
 }

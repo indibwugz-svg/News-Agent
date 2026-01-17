@@ -1206,6 +1206,18 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-17",
         "published_date": "Sat, 17 Jan 2026 13:25:00 GMT",
         "first_seen": "2026-01-17T05:26:14.664829"
+      },
+      "8811ff92165aeb12c57e663f7d56bf733e3a40bba581bdb347b8fe6c3fa024af": {
+        "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-3",
+        "published_date": "Sat, 17 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-17T08:32:52.968273"
+      },
+      "70aa1182e33096d8f60433e012db7ee7a0d5da3741dd55f6958485abcf63ef1e": {
+        "title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-2",
+        "published_date": "Sat, 17 Jan 2026 13:29:00 GMT",
+        "first_seen": "2026-01-17T08:32:52.968452"
       }
     },
     "Technology": {
@@ -5828,13 +5840,37 @@
         "link": "https://www.tmtpost.com/7846164.html",
         "published_date": "Sat, 17 Jan 2026 08:05:00 GMT",
         "first_seen": "2026-01-17T05:26:14.797107"
+      },
+      "86d96a2fa8e022438cd31c4ccca1bcdf690776e43e9b37d683b25ae325c4b595": {
+        "title": "Matrix 圆桌 | 少数派们的 13 张 2025 年度新专辑",
+        "link": "https://sspai.com/post/105413",
+        "published_date": "Sat, 17 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-17T08:32:53.061451"
+      },
+      "4f633c2ec7197c51832c5402bd7b0699d5084668ae4356ec635f25905d35b78b": {
+        "title": "曾经遥遥领先的德国制造，为何骤然“跌落神坛”？",
+        "link": "https://www.tmtpost.com/7845975.html",
+        "published_date": "Sat, 17 Jan 2026 14:05:00 GMT",
+        "first_seen": "2026-01-17T08:32:53.061608"
+      },
+      "5657405becac628f830f929d312965e45c1b02907731830943393e2024e7beff": {
+        "title": "IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理",
+        "link": "https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 13:42:00 GMT",
+        "first_seen": "2026-01-17T08:32:53.061889"
+      },
+      "b9869fb649e4a13c8b1bec7349e041fd08ccf7a9aa0e98bab5d110de6546fcd3": {
+        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+        "link": "https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-17T08:32:53.062209"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-17T05:26:14.685816",
-    "Technology": "2026-01-17T05:26:14.804891",
-    "Finance": "2026-01-17T05:26:14.544009"
+    "AI": "2026-01-17T08:32:53.003036",
+    "Technology": "2026-01-17T08:32:53.069331",
+    "Finance": "2026-01-17T08:32:52.862465"
   }
 }

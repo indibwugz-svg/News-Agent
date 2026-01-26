@@ -1902,6 +1902,60 @@
         "link": "https://www.qbitai.com/2026/01/372351.html",
         "published_date": "Sun, 25 Jan 2026 11:51:00 GMT",
         "first_seen": "2026-01-25T23:26:02.555810"
+      },
+      "1abd72309084ed53ae8aa84f9584f4f5622984022e401bba9d52f3b4099183c0": {
+        "title": "走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-7",
+        "published_date": "Mon, 26 Jan 2026 13:33:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.308015"
+      },
+      "52dc7ad0e9a123b2d441c853242aecb173025ff7a0b1dc7f9988f140af8210fd": {
+        "title": "5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-6",
+        "published_date": "Mon, 26 Jan 2026 13:15:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.308223"
+      },
+      "c7b44fce083de53633baa54ebaf7391e00c78e901c21c47358647f4d415bbe11": {
+        "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-5",
+        "published_date": "Mon, 26 Jan 2026 13:08:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.308471"
+      },
+      "b4aef1fe222c30e74ccfc642060967938c3140db82efa83e42c2a347708f14eb": {
+        "title": "关于多模态大模型Token压缩技术进展，看这一篇就够了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-4",
+        "published_date": "Mon, 26 Jan 2026 13:04:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.308674"
+      },
+      "679e55deb01878af20961b39314d91eff8005d5655bb78fcbc35214a11f56518": {
+        "title": "这届网友太狠了：Clawdbot爆火，狂囤40台Mac mini来跑",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-3",
+        "published_date": "Mon, 26 Jan 2026 11:35:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.308930"
+      },
+      "91d377104e6c4df1260b6a1a2843ad2eb80fa98e5134005afddaedfbeebf8967": {
+        "title": "AAAI 2026杰出论文奖 | ReconVLA：具身智能研究首次获得AI顶级会议最佳论文奖",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-2",
+        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.309333"
+      },
+      "3531c00a0063b8bf535757b5902f03d081c0a89a9fea3ec37f35cd89847fadbd": {
+        "title": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26",
+        "published_date": "Mon, 26 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.309838"
+      },
+      "fe29785625deb3cc3649ed37482a095da798761e7b42221b15be5be030db9185": {
+        "title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
+        "link": "https://www.qbitai.com/2026/01/372555.html",
+        "published_date": "Mon, 26 Jan 2026 04:55:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.310360"
+      },
+      "cb2f6c0d3b5ab2c63a4a064fe5c94827e2aeefecaa957bc2a68dd1d627da8637": {
+        "title": "腾讯发力社交AI赛道，元宝开启“元宝派”内测",
+        "link": "https://www.qbitai.com/2026/01/372540.html",
+        "published_date": "Mon, 26 Jan 2026 03:12:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.310816"
       }
     },
     "Technology": {
@@ -9008,13 +9062,109 @@
         "link": "https://www.tmtpost.com/7854761.html",
         "published_date": "Sun, 25 Jan 2026 17:12:00 GMT",
         "first_seen": "2026-01-25T23:26:11.870759"
+      },
+      "d8ec7eccee69a608461e87188199513338cb313d59404815863e4ec86631cdf7": {
+        "title": "AI视频三岔路：Sora变现遇阻，可灵务实养家，即梦生态筑梦",
+        "link": "https://www.tmtpost.com/7855198.html",
+        "published_date": "Mon, 26 Jan 2026 13:05:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750665"
+      },
+      "9e1da0ad4a9f88b738f748614ba60b061957fbace4cf489e3950257f23c7298d": {
+        "title": "魅族三箭齐发，却未取一瓢饮",
+        "link": "https://www.tmtpost.com/7855196.html",
+        "published_date": "Mon, 26 Jan 2026 12:02:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750676"
+      },
+      "4ed94ec77dfe55ced72faf0a8c3d02652e5d2e48bc57bf9b213f248670ac07a5": {
+        "title": "福信富通：盈利质量堪忧，客户、供应商合作存反常｜IPO观察",
+        "link": "https://www.tmtpost.com/7847688.html",
+        "published_date": "Mon, 26 Jan 2026 11:39:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750687"
+      },
+      "19f6248f6abeb7ac00500fb2c99bbfb86d8e4f1894134cf3b7ba84b82ec49695": {
+        "title": "数据中心的下一个胜负手：跳出AI芯片",
+        "link": "https://www.tmtpost.com/7855247.html",
+        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750608"
+      },
+      "2337632cb1d158163a78c69894f763b3849e4fb951daac5c395cc39d43357ebd": {
+        "title": "2026春晚，大模型的分水岭",
+        "link": "https://www.tmtpost.com/7855248.html",
+        "published_date": "Mon, 26 Jan 2026 10:36:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750697"
+      },
+      "f15d120806c902a5d8c82499ef81906b2aaec43e9cab8a386bab4a16c7cd71d1": {
+        "title": "China's Companies Enter 'Going Global 2.0' as Firms Rethink Overseas Expansion Strategies",
+        "link": "https://www.tmtpost.com/7855244.html",
+        "published_date": "Mon, 26 Jan 2026 10:26:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750710"
+      },
+      "24a5eaf1bd555077e088cf281fdfb5e3b710dbbb520daa7a2ef42f294e9228e0": {
+        "title": "三足鼎立时代：汽水音乐如何搅动在线音乐市场格局",
+        "link": "https://www.tmtpost.com/7855037.html",
+        "published_date": "Mon, 26 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750720"
+      },
+      "41207d546965d8a9ba75fecae94b81f6b0dc73ac6fe18fc36c5d5c8dd1fc4875": {
+        "title": "大银幕，东北文学的失乐园",
+        "link": "https://www.tmtpost.com/7854968.html",
+        "published_date": "Mon, 26 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750729"
+      },
+      "772ae1a8a0c4438484cca493181ba0180fe62138c91edeb592bb10b2a5c051a2": {
+        "title": "从技术狂欢到价值兑现，AI大模型下半场怎么打？",
+        "link": "https://www.tmtpost.com/7855023.html",
+        "published_date": "Mon, 26 Jan 2026 08:30:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750634"
+      },
+      "10004ad3d4214c137fc6c35ff81aa8bf07a931e2feea5761730f50622aa15fc2": {
+        "title": "【钛晨报】GDP增长5%左右！北京公布2026年重点工作；总台2026春晚指定具身大模型机器人公布；报道称三星电子将一季度NAND价格上调100%",
+        "link": "https://www.tmtpost.com/7854960.html",
+        "published_date": "Mon, 26 Jan 2026 07:20:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.408707"
+      },
+      "fc6ab0f5e5006f91a80732053a92f41090e3582156431d252c5fd96f8dbe5d0b": {
+        "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
+        "link": "https://sspai.com/post/105506",
+        "published_date": "Mon, 26 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.409338"
+      },
+      "2c96b0ec13360e9c6742daf4451d17fe06fafa5a031d04160051cff467d93892": {
+        "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
+        "link": "https://sspai.com/post/105741",
+        "published_date": "Mon, 26 Jan 2026 08:57:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.409848"
+      },
+      "5e7f9d1a60b94cb78a0747e343cc254dedb92c3f40a61da777a68806b248fb60": {
+        "title": "AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了",
+        "link": "https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 11:17:00 GMT",
+        "first_seen": "2026-01-26T05:36:59.750652"
+      },
+      "3a300b73fa20cdab7038a0a739d2ed3bc994dc20434cca81d46db2d88ced7ac7": {
+        "title": "OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆，谷歌这波别急着吹本质还是 OpenAI 失误",
+        "link": "https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 10:51:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.412000"
+      },
+      "cc6794bd082000646251325b649470857a180721b3b59c933fa8c1bff3841f9c": {
+        "title": "刚刚，前旷视CEO印奇出任阶跃星辰董事长",
+        "link": "https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 10:20:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.412632"
+      },
+      "7fca4cd5cf87871aeb77a8c495b2d99e848ff1500dd783c3aa7870ca5d30bcb7": {
+        "title": "去年涨了147%，今年20多天又涨了30%，白银还能疯涨多久?",
+        "link": "http://www.huxiu.com/article/4829374.html?f=wangzhan",
+        "published_date": "Mon, 26 Jan 2026 10:28:00 GMT",
+        "first_seen": "2026-01-26T05:36:50.413358"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-25T23:26:02.582326",
-    "Technology": "2026-01-25T23:26:11.872147",
-    "Finance": "2026-01-25T23:26:02.458340"
+    "AI": "2026-01-26T05:36:50.346323",
+    "Technology": "2026-01-26T05:36:59.752214",
+    "Finance": "2026-01-26T05:36:50.200861"
   }
 }

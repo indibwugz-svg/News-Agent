@@ -2442,6 +2442,24 @@
         "link": "https://www.qbitai.com/2026/01/374398.html",
         "published_date": "Fri, 30 Jan 2026 02:28:00 GMT",
         "first_seen": "2026-01-30T05:53:05.514227"
+      },
+      "55193067db1adf4cc88324b5dc005473bb0cd856493765bb59d5b4c0a2d5c490": {
+        "title": "腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索",
+        "link": "https://www.qbitai.com/2026/01/374467.html",
+        "published_date": "Fri, 30 Jan 2026 06:33:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.643708"
+      },
+      "c8778a442a2ded522f4f347d76e4ba5ec9d1ea04ea8d05a6866b26880fa8741b": {
+        "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
+        "link": "https://www.qbitai.com/2026/01/374459.html",
+        "published_date": "Fri, 30 Jan 2026 06:24:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.643899"
+      },
+      "9918c879dde2e7b24ded943dffdbee65afb129bb2542823709d5b3d867c1d53f": {
+        "title": "性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型",
+        "link": "https://www.qbitai.com/2026/01/374455.html",
+        "published_date": "Fri, 30 Jan 2026 06:10:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.644105"
       }
     },
     "Technology": {
@@ -11324,13 +11342,157 @@
         "link": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
         "published_date": "Fri, 30 Jan 2026 11:06:00 GMT",
         "first_seen": "2026-01-30T05:53:05.637404"
+      },
+      "be1fe733c9ec8ade17d95200c2017536cd48b5e9c27e17ea511c1124e5ba0e58": {
+        "title": "AI拯救日本马桶",
+        "link": "https://www.tmtpost.com/7861709.html",
+        "published_date": "Fri, 30 Jan 2026 16:47:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.750928"
+      },
+      "d82c755f8320107428e1f5099d003b9dad929cff684014a18b096e3e33244d80": {
+        "title": "2026年重大利好，手术机器人分档收费国标出台引燃行业",
+        "link": "https://www.tmtpost.com/7861689.html",
+        "published_date": "Fri, 30 Jan 2026 16:46:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979925"
+      },
+      "c2b91517cf4934e760e4071778a629d78e6c3bf951c1a4f06c603654117ae329": {
+        "title": "亚马逊大裁员背后，中小卖家成弃子？",
+        "link": "https://www.tmtpost.com/7861561.html",
+        "published_date": "Fri, 30 Jan 2026 16:46:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979936"
+      },
+      "93eb4e078708d6ef66ff313fc6f75129f1708b3dfd97bd7ef2cb9a46e101ec5f": {
+        "title": "官方提醒别去日本后，春节出游的风向变了",
+        "link": "https://www.tmtpost.com/7861171.html",
+        "published_date": "Fri, 30 Jan 2026 16:44:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979947"
+      },
+      "6ebfb63a88a555f4658f0f972d071eabd9b253ea6451380930058eb2117b6e1c": {
+        "title": "马斯克的下一场革命，不用开颅的脑机接口来了？",
+        "link": "https://www.tmtpost.com/7861487.html",
+        "published_date": "Fri, 30 Jan 2026 16:27:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979957"
+      },
+      "318fda8b091caf57dbbe190a463a9bfea1699d368143d45f3fa0e68deecbe91a": {
+        "title": "AI这块蛋糕，英伟达只吃奶油",
+        "link": "https://www.tmtpost.com/7861708.html",
+        "published_date": "Fri, 30 Jan 2026 16:24:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979966"
+      },
+      "816f51684047e573afba07b6198d49afa5ee3caae105e59e2e15ff2886339372": {
+        "title": "从“玩梗”到“共创”：听劝营销重塑品牌与用户沟通新路",
+        "link": "https://www.tmtpost.com/7861740.html",
+        "published_date": "Fri, 30 Jan 2026 16:20:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.752019"
+      },
+      "18e45099d92dd0e9d4b83703cfafeadcc6d21d65d7df2741f155aa6e70ca0e40": {
+        "title": "特斯拉的销量已经不重要了",
+        "link": "https://www.tmtpost.com/7861761.html",
+        "published_date": "Fri, 30 Jan 2026 16:20:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979975"
+      },
+      "61fab1552034d9005547b07b510a493521684bd3a0c5345c07e70c3d44bd6867": {
+        "title": "又一95后科学家加盟腾讯，担任混元“首席科学家”",
+        "link": "https://www.tmtpost.com/7861703.html",
+        "published_date": "Fri, 30 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979985"
+      },
+      "acc4ddc3803887a8428a2abe3de3d7f3b556e133a36f518278e7c3e97a783d66": {
+        "title": "ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI",
+        "link": "https://www.tmtpost.com/7861725.html",
+        "published_date": "Fri, 30 Jan 2026 15:29:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979997"
+      },
+      "df86aededae23c1e6ad57a5198cd8fb8a51e22c664fb5e6f9f7bf34fe7bdfddc": {
+        "title": "营收利润双高，苹果的未来却有点悬？",
+        "link": "https://www.tmtpost.com/7861576.html",
+        "published_date": "Fri, 30 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.753478"
+      },
+      "51a9a6df51deecd8afb981416a436a94f8ce55aa603f91002b9cd8dde5437307": {
+        "title": "超盒算NB的野心藏不住了",
+        "link": "https://www.tmtpost.com/7861569.html",
+        "published_date": "Fri, 30 Jan 2026 14:52:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.753799"
+      },
+      "827394573c563036366dc980b9da7ce068c99c43f4d95bf9d269dec9dcfb09a8": {
+        "title": "韩束2025年GMV国货第一，但上美的第二增长曲线仍在摸索",
+        "link": "https://www.tmtpost.com/7861634.html",
+        "published_date": "Fri, 30 Jan 2026 14:24:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.754343"
+      },
+      "2df629e46edb2c00bec8c235632d1910ff840d841aa82bc139fdc6f806edac31": {
+        "title": "宣伟公司股价下跌，财报显示客户消费状况堪忧",
+        "link": "https://www.tmtpost.com/7861593.html",
+        "published_date": "Fri, 30 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.754786"
+      },
+      "733aedaaf8a50194d59a5749c94839ca1216b3420f3964a2cb15cd808a74886b": {
+        "title": "受价格下限担忧影响，MP和稀土股票下跌，这或许是一个买入机会",
+        "link": "https://www.tmtpost.com/7861591.html",
+        "published_date": "Fri, 30 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.755401"
+      },
+      "36e45d064186f48eb644173fdf58e7c2dbe35d8afd889902f0cc521502822c44": {
+        "title": "这位表现优异的基金经理看好强生、劳氏和公用事业类股票",
+        "link": "https://www.tmtpost.com/7861589.html",
+        "published_date": "Fri, 30 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.756025"
+      },
+      "997f9a7825334b57ffe112ff02406fde412133f60e69c12bd91787c452e2380f": {
+        "title": "Innodata股价因与Palantir达成合作而大涨，建议继续看好",
+        "link": "https://www.tmtpost.com/7861584.html",
+        "published_date": "Fri, 30 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.756749"
+      },
+      "7a3c4c7502e3553f515858c534160880693600ebfe3d1a1f5870a7650fa58efb": {
+        "title": "金融股出现裂痕引发担忧，这三张图表说明了一切",
+        "link": "https://www.tmtpost.com/7861580.html",
+        "published_date": "Fri, 30 Jan 2026 13:41:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.757412"
+      },
+      "823f2e560e52ed976a1e7b482d5fb47e0f55bcf0116bf4f5fa40291572421007": {
+        "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
+        "link": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.758372"
+      },
+      "7330ec7f05477fa7088ebddbf80432dfbf052be42298e826dddd5cf8170b2789": {
+        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+        "link": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:08:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979878"
+      },
+      "ffe6769229d51f47ebb65fcf8b0d55d493ee75b443aaaa6b0289ea17bb4a4444": {
+        "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
+        "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:00:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.760618"
+      },
+      "824c09240ea5cd7098b5b18a97cdd59832591f4eebae2e311f3ffb1b20d865e2": {
+        "title": "凌晨三点写代码、10个 Agent 同时跑！ClawdBot 创始人自曝 AI 上瘾史：Claude Code 入坑，Codex 成主力",
+        "link": "https://www.infoq.cn/article/XW07axk5vWGgzz4bFqol?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 15:30:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.762308"
+      },
+      "8ee3c64f547bdcef0f6bf4a69a7592bb072cae3553451c2f7096dd361a25cd11": {
+        "title": "就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯",
+        "link": "https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-30T08:53:58.979909"
+      },
+      "87ffe1c0bb89fe5acbca0e231213da2b192097391a4cbbb048e4028060924355": {
+        "title": "停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘",
+        "link": "https://sspai.com/post/104564",
+        "published_date": "Fri, 30 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-30T08:53:49.765019"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-30T05:53:05.583024",
-    "Technology": "2026-01-30T05:53:14.866808",
-    "Finance": "2026-01-30T05:53:05.406337"
+    "AI": "2026-01-30T08:53:49.713426",
+    "Technology": "2026-01-30T08:53:58.981577",
+    "Finance": "2026-01-30T08:53:49.532630"
   }
 }

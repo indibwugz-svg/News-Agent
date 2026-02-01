@@ -2604,6 +2604,24 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-01",
         "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
         "first_seen": "2026-02-01T08:42:50.408498"
+      },
+      "9c224c254478c44cd51d9bf353799c610f2e0694b234622ec144fba4242ac032": {
+        "title": "moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-4",
+        "published_date": "Sun, 01 Feb 2026 18:06:00 GMT",
+        "first_seen": "2026-02-01T23:33:37.467999"
+      },
+      "8aa31552b273d2c40dc1f0ed4c70c81ac7d1d2a7404cc81ea28e7de2181a1488": {
+        "title": "马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-3",
+        "published_date": "Sun, 01 Feb 2026 18:02:00 GMT",
+        "first_seen": "2026-02-01T23:33:37.468185"
+      },
+      "ee3f720343e5243f69ff666124e63d267258bb3bb2bbf0346479b840a49b3c5f": {
+        "title": "o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-2",
+        "published_date": "Sun, 01 Feb 2026 17:56:00 GMT",
+        "first_seen": "2026-02-01T23:33:37.468379"
       }
     },
     "Technology": {
@@ -12188,13 +12206,25 @@
         "link": "https://www.tmtpost.com/7863229.html",
         "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
         "first_seen": "2026-02-01T08:42:50.480845"
+      },
+      "d0a471bd4a44609bbf4e07f2e025fc53b9cf502dc672312e52f0550958067d70": {
+        "title": "【钛晨报】习近平：发挥比较优势，坚持稳中求进，推动我国未来产业发展不断取得新突破；车企首月新能源成绩单出炉；四家公募基金集体公告，提示旗下石油基金溢价风险",
+        "link": "https://www.tmtpost.com/7863421.html",
+        "published_date": "Mon, 02 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-01T23:33:37.524120"
+      },
+      "1ece4f71aa62fff24614eaa1ddc1aa8b434536fe84987f1d2062adfa5733423c": {
+        "title": "彩讯股份携手稳准智能发布垂直行业数据大模型“数擎”大模型",
+        "link": "https://www.infoq.cn/article/gbW5LmM3U3dXoQhTXY31?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 01 Feb 2026 17:19:00 GMT",
+        "first_seen": "2026-02-01T23:33:37.524288"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-01T08:42:50.441397",
-    "Technology": "2026-02-01T08:42:50.488499",
-    "Finance": "2026-02-01T08:42:50.263800"
+    "AI": "2026-02-01T23:33:37.487184",
+    "Technology": "2026-02-01T23:33:37.531490",
+    "Finance": "2026-02-01T23:33:37.336024"
   }
 }

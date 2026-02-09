@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-09 09:00
+**最后更新时间**: 2026-02-09 23:47
+
+---
+
+## 🆕 最新更新 (2026-02-09 23:47)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI trained on birds is surfacing underwater mysteries](https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/)
+**发布时间**: 2026-02-09 18:38
 
 ---
 

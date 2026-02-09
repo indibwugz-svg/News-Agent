@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 06:09
+**最后更新时间**: 2026-02-09 09:01
+
+---
+
+## 🆕 最新更新 (2026-02-09 09:01)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [30亿补贴大战请你喝奶茶，阿里图什么？](http://www.huxiu.com/article/4833518.html?f=wangzhan)
+**发布时间**: 2026-02-09 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic发布新版Claude宪法](https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 15:00
+
+#### [3年、1万人，快手技术团队首次系统披露AI研发范式升级历程](https://www.infoq.cn/article/9rX1Ov951gKtaTmQb8Jq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:55
+
+#### [Base UI 1.0 发布，包含 35 个可访问性组件](https://www.infoq.cn/article/NgNgXNFVZNgePmNs0t4a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
+**发布时间**: 2026-02-09 15:00
 
 ---
 

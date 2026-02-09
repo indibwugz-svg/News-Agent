@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "cb38d6447051521240c98a48762bed2d2000f426fefd23b783c6754b4dd6e4b0": {
-        "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
-        "link": "https://www.qbitai.com/2026/01/368834.html",
-        "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.124553"
-      },
       "0781e0826a59c9b0d973067aefbec0f257ca5130c4bee4a210c1ca0bf6b3299a": {
         "title": "刚刚，唐杰、杨强、杨植麟、林俊旸和刚回国的姚顺雨坐一起都聊了啥？",
         "link": "https://www.jiqizhixin.com/articles/2026-01-10-6",
@@ -2664,39 +2658,69 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-09",
         "published_date": "Mon, 09 Feb 2026 13:28:00 GMT",
         "first_seen": "2026-02-09T06:09:32.264968"
+      },
+      "61e7b130bf35d4c9ed9bd9346205591004030322c949e3817d5e279a99ca8c05": {
+        "title": "这个春节，AI 不聊天了，开始替我买单",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-10",
+        "published_date": "Mon, 09 Feb 2026 14:59:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.505381"
+      },
+      "9452a32b1be262bc803f4d3351a0f4d85f795bdd757dc68a42db89e5006a9ddd": {
+        "title": "CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-9",
+        "published_date": "Mon, 09 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.505608"
+      },
+      "20d3aaa80652ea3ae64c919080a4c0814f336eccfe6465ffc5334196495a348e": {
+        "title": "童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-8",
+        "published_date": "Mon, 09 Feb 2026 14:50:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.505875"
+      },
+      "085e70dabda0ac9f67ccc044fc22b5b77bf5f4bfc29cd60c859f8c1d6dde5c51": {
+        "title": "英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-7",
+        "published_date": "Mon, 09 Feb 2026 14:44:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.506094"
+      },
+      "60d361e5403fcf9479035c870c553a464b4a67ecfc74cec962be303894287257": {
+        "title": "先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-6",
+        "published_date": "Mon, 09 Feb 2026 14:39:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.506540"
+      },
+      "160dbb7560d27fb0b59fd23d070f4f65dcc3094e676dd203c39c0b055a559bd1": {
+        "title": "生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-5",
+        "published_date": "Mon, 09 Feb 2026 14:32:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.506982"
+      },
+      "fbdb018f1c3a2fecc7feab3dc01259e15a802e6b0844a7d27e01b1af75922e35": {
+        "title": "模型「漂移」新范式，何恺明新作让生成模型无须迭代推理",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-4",
+        "published_date": "Mon, 09 Feb 2026 14:28:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.507328"
+      },
+      "4845c0433a29f0b01bba095879298a98d7cfae6bb6c30e3b1c87c605f26771ac": {
+        "title": "登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-3",
+        "published_date": "Mon, 09 Feb 2026 14:21:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.507813"
+      },
+      "dbb3d88cef39b433b27acb150092cac27ff82488a8293a41d0f4007a5ac68176": {
+        "title": "扩散语言模型深度思考",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-2",
+        "published_date": "Mon, 09 Feb 2026 14:16:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.508062"
+      },
+      "bb1c83152360149693933ac0e6538cd1cf05ce8043c70a58ea60ca7b1a89c29f": {
+        "title": "可拜年、可求婚！擎天租999元上架“机器人奇妙夜”同款机器人",
+        "link": "https://www.qbitai.com/2026/02/377969.html",
+        "published_date": "Mon, 09 Feb 2026 07:45:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.508665"
       }
     },
     "Technology": {
-      "0fd395433360a9f6c9ed7b144318127606f442a55ad8d66b36d48986287651db": {
-        "title": "快手AI可以更稳点",
-        "link": "https://www.tmtpost.com/7837543.html",
-        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.212939"
-      },
-      "3987b68c1aa36e027f371ec038521a62f7a0ce9aebb7b57dbe1c6fb2cf4a5d1f": {
-        "title": "美国斩杀线vs云南秋那桶",
-        "link": "https://www.tmtpost.com/7837551.html",
-        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.213049"
-      },
-      "fb48fa40c4cb8aee144947501ba59186ac04ba5548fc4ae6fbc93f5f28a6ce3b": {
-        "title": "大疆忙着抢别人地盘，影石却来偷家了",
-        "link": "https://www.tmtpost.com/7837782.html",
-        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.213156"
-      },
-      "c828350ed27acd9973a36dd3a1b04c8036f3de59e9e1d9a96863ddb1c8629d60": {
-        "title": "RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地",
-        "link": "https://www.tmtpost.com/7837893.html",
-        "published_date": "Sat, 10 Jan 2026 13:24:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.213358"
-      },
-      "6c8ecb350fc159a1c87b548895f997568890b180721d29360b9ad42e7d4f9e44": {
-        "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
-        "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
-        "first_seen": "2026-01-10T08:33:08.213633"
-      },
       "7275f6a5150be7776f01e35b9faf0e6c0912b5dd78e4b0c1987de8e35a18e6b3": {
         "title": "价值判断：涨停板的投资机会和风险提示（1月9日）｜证券市场观察",
         "link": "https://www.tmtpost.com/7838184.html",
@@ -12506,13 +12530,43 @@
         "link": "http://www.huxiu.com/article/4833269.html?f=wangzhan",
         "published_date": "Mon, 09 Feb 2026 09:30:00 GMT",
         "first_seen": "2026-02-09T06:09:32.334358"
+      },
+      "add8311c3a086621a039dc594a3f77bd9e5e1eff18ba1978e0a3ab5c5aa17a85": {
+        "title": "30亿补贴大战请你喝奶茶，阿里图什么？",
+        "link": "http://www.huxiu.com/article/4833518.html?f=wangzhan",
+        "published_date": "Mon, 09 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.567198"
+      },
+      "f40a163627234672789c6ac5c960bd6cb2cfe34bef7b0bc274acd5c01bd8d479": {
+        "title": "Anthropic发布新版Claude宪法",
+        "link": "https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.567302"
+      },
+      "4090e1f64c706f5212388436e687027ebe3f2d4507d33b84f3a91445833c74fe": {
+        "title": "3年、1万人，快手技术团队首次系统披露AI研发范式升级历程",
+        "link": "https://www.infoq.cn/article/9rX1Ov951gKtaTmQb8Jq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.567474"
+      },
+      "dcade7c2a7bef3eb8df57f273ffe24b1fd14b006aac38a3c778b5e497f8223ec": {
+        "title": "Base UI 1.0 发布，包含 35 个可访问性组件",
+        "link": "https://www.infoq.cn/article/NgNgXNFVZNgePmNs0t4a?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 14:29:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.567684"
+      },
+      "18abaace14531df17296c0244bc123cf8866e52e59c33b54f70a49044a8696e9": {
+        "title": "骏马迎春，纳福添彩：我们准备了 10+ 件年货好物",
+        "link": "https://sspai.com/post/106213",
+        "published_date": "Mon, 09 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-09T09:01:07.567902"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-09T06:09:32.283046",
-    "Technology": "2026-02-09T06:09:41.690034",
-    "Finance": "2026-02-09T06:09:32.134977"
+    "AI": "2026-02-09T09:01:07.528493",
+    "Technology": "2026-02-09T09:01:07.575689",
+    "Finance": "2026-02-09T09:01:07.357042"
   }
 }

@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 23:47
+**最后更新时间**: 2026-02-10 06:18
+
+---
+
+## 🆕 最新更新 (2026-02-10 06:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [机构预测越南2026年引领东盟+3地区经济增长；京东欧洲电商平台Joybuy将于3月正式上线；加拿大电动汽车新战略将与中国合作｜一周出海参考](https://www.tmtpost.com/7872939.html)
+**发布时间**: 2026-02-10 14:13
+
+#### [越南批准一项连接中国的智慧口岸项目；沙特正式启动国家私有化战略；TikTok Shop东南亚跨境电商启动「春节不打烊」活动｜一周出海参考](https://www.tmtpost.com/7872899.html)
+**发布时间**: 2026-02-10 14:12
+
+#### [巴西将对中国公民免签；TikTok Shop美区取消自发货；越南加强数字消费用户保护处罚TikTok｜一周出海参考](https://www.tmtpost.com/7872886.html)
+**发布时间**: 2026-02-10 14:09
+
+#### [外卖大战2026，从“涨佣”开始](https://www.tmtpost.com/7873634.html)
+**发布时间**: 2026-02-10 14:05
+
+#### [Chinese Startup Ace Robotics Secures Angel Round Funding Led by Ant Group](https://www.tmtpost.com/7874018.html)
+**发布时间**: 2026-02-10 13:51
+
+#### [谁杀死了硅谷程序员？](https://www.tmtpost.com/7873671.html)
+**发布时间**: 2026-02-10 13:36
+
+#### [AI 竞赛终局：电力说了算？](https://www.tmtpost.com/7873800.html)
+**发布时间**: 2026-02-10 13:13
+
+#### [投出爱芯、壁仞的耀途资本：中国AI芯片的胜算 | 巴伦精选](https://www.tmtpost.com/7873989.html)
+**发布时间**: 2026-02-10 13:02
+
+#### [破案了，Pony Alpha中国制造，小龙逆袭AI Coding](https://www.tmtpost.com/7873345.html)
+**发布时间**: 2026-02-10 11:52
+
+#### [内存泡沫](https://www.tmtpost.com/7873354.html)
+**发布时间**: 2026-02-10 11:27
+
+#### [GitHub开源项目shannon星标飙升，漏洞发现成功率96.15%](https://www.tmtpost.com/7873847.html)
+**发布时间**: 2026-02-10 11:12
+
+#### [章燎原的三只松鼠还能守住零食龙头地位吗？](https://www.tmtpost.com/7873316.html)
+**发布时间**: 2026-02-10 10:36
+
+#### [东京初创InfiniMind以AI破解企业视频暗数据难题，获580万美元种子轮融资推动全球扩张](https://www.tmtpost.com/7873757.html)
+**发布时间**: 2026-02-10 10:25
+
+#### [11只暴跌后看起来值得买入的股票](https://www.tmtpost.com/7873819.html)
+**发布时间**: 2026-02-10 10:24
+
+#### [Alphabet 的股票仍然是“最佳投资选择”，对人工智能的投入将获得回报](https://www.tmtpost.com/7873816.html)
+**发布时间**: 2026-02-10 10:24
+
+#### [振宏股份：低研发高毛利反差显著，客户供应商重叠遭问询｜IPO观察](https://www.tmtpost.com/7872249.html)
+**发布时间**: 2026-02-10 10:13
+
+#### [Cerebras凭借创新晶圆级引擎与OpenAI巨额合作，挑战Nvidia霸主地位](https://www.tmtpost.com/7873755.html)
+**发布时间**: 2026-02-10 10:12
+
+#### [马斯克“点火”，重估中国光伏？｜行业风向标](https://www.tmtpost.com/7873754.html)
+**发布时间**: 2026-02-10 10:11
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为什么车企都在“电改油”？](http://www.huxiu.com/article/4833165.html?f=wangzhan)
+**发布时间**: 2026-02-10 11:50
+
+#### [美伊核谈判：背后全是暗战，别被表面的共识骗了](http://www.huxiu.com/article/4833476.html?f=wangzhan)
+**发布时间**: 2026-02-10 11:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [不只是健康指标：也试试用 HRV 指导自己的健身计划](https://sspai.com/post/105791)
+**发布时间**: 2026-02-10 11:10
+
+#### [派早报：天涯社区宣布回归等](https://sspai.com/post/106265)
+**发布时间**: 2026-02-10 08:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Daggr 发布：用于构建与检查 AI 工作流的开源 Python 库](https://www.infoq.cn/article/1xUSbEXlzBqHKsh3pSFy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 11:00
+
+#### [从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践](https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 09:52
+
+#### [Skills出世，Prompt已死？2026年，如何为Agent构建可控思维](https://www.infoq.cn/article/PulhCjGvh2i1xY0rjgSb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 09:44
+
+#### [OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2](https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 08:54
+
+#### [.NET 10现已在AWS Lambda上作为托管运行时和基础镜像提供](https://www.infoq.cn/article/5dsQgAfhRJSyvZNtZWCh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 08:51
 
 ---
 

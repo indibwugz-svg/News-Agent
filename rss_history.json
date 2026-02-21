@@ -1,84 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "aa5b735fec4dba568f963da0310807601e5ea5a627e3a83da2b33dab53617bdd": {
-        "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-14",
-        "published_date": "Thu, 22 Jan 2026 19:17:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569817"
-      },
-      "17ed6d2ab4fe8399a97b282d758e5a926af36d1da729580596b6cfcfbae02f42": {
-        "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-13",
-        "published_date": "Thu, 22 Jan 2026 19:13:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569827"
-      },
-      "c4a9213d3fa4311cc67ecc99703cd71bf066dad35393efbaa0a1684b37072481": {
-        "title": "苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-12",
-        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569706"
-      },
-      "caa4cc0a3ad7aefa979bfeff1acaad523d2de60690eec17aeb443a3010b53218": {
-        "title": "华为云昇腾AI云服务客户增长超8倍，稳居最大国产AI云服务提供商",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-11",
-        "published_date": "Thu, 22 Jan 2026 17:35:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569735"
-      },
-      "54946ad0ede2e66c14719f1344b5813e9e866a96c85e32518c7fc8eddbe020dc": {
-        "title": "AAAI杰出论文来了！港科大、同济、浙师大等国内高校获奖",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-10",
-        "published_date": "Thu, 22 Jan 2026 16:56:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569749"
-      },
-      "b1b778fc0930b01ee2f590f9af912fa13379b3f54116c62030c23eb0eea893f4": {
-        "title": "Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-9",
-        "published_date": "Thu, 22 Jan 2026 16:53:00 GMT",
-        "first_seen": "2026-01-22T23:30:07.318840"
-      },
-      "d88bf322c8547c2a0266f435a0d3e873d825782371e67446e1b38f12f42ecae3": {
-        "title": "金山云星流全面升级 以智算穿越云上AI新周期",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-8",
-        "published_date": "Thu, 22 Jan 2026 16:47:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569760"
-      },
-      "0579ebce05266379afdec9f30b484a3b5c84c397b5068e87b7adb4150366b829": {
-        "title": "Future Tech | 16支AI新锐齐聚数码港，FT Demo Day第二期引爆湾区创新浪潮",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-22-7",
-        "published_date": "Thu, 22 Jan 2026 16:45:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569774"
-      },
-      "61a0f7233456c7ef4c98a517fcc930e6c2c5843f61fe6e9e5f9447250c180d7c": {
-        "title": "Small models, big results: Achieving superior intent extraction through decomposition",
-        "link": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
-        "published_date": "Thu, 22 Jan 2026 16:56:00 GMT",
-        "first_seen": "2026-01-22T23:30:07.320792"
-      },
-      "ba63493ac7e7801e191d54e85ce7a7c3cf0c54725c178df71adfd4fe684d33ae": {
-        "title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
-        "link": "https://www.qbitai.com/2026/01/371570.html",
-        "published_date": "Thu, 22 Jan 2026 11:17:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569786"
-      },
-      "c444353ed519149630648e58474f57a757411184ec5493145178a9b941301b67": {
-        "title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
-        "link": "https://www.qbitai.com/2026/01/371559.html",
-        "published_date": "Thu, 22 Jan 2026 09:28:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569796"
-      },
-      "548537f0c4f7eca9987d691193f1236e991ec2896c83f19cbca80fa0bb73c872": {
-        "title": "高通砸钱、雷军入股！刚刚，上海诞生一个183亿手机代工巨头",
-        "link": "https://www.qbitai.com/2026/01/371535.html",
-        "published_date": "Thu, 22 Jan 2026 09:02:00 GMT",
-        "first_seen": "2026-01-22T23:30:07.322487"
-      },
-      "65f4b8671c9f0a7564aa224c7f41fc9a1011c401e77ed833254a8e1ef1c43478": {
-        "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
-        "link": "https://www.qbitai.com/2026/01/371533.html",
-        "published_date": "Thu, 22 Jan 2026 08:42:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.569807"
-      },
       "aacf0df1ee2ea158da0d5df1022e3246bee695abe61e6f3168550b157c53b9fc": {
         "title": "百万围观、HuggingFace多模态登顶，华人团队开源语音版「DeepSeek」海外爆火",
         "link": "https://www.jiqizhixin.com/articles/2026-01-23-4",
@@ -2556,105 +2478,39 @@
         "link": "https://www.qbitai.com/2026/02/381552.html",
         "published_date": "Sat, 21 Feb 2026 06:31:00 GMT",
         "first_seen": "2026-02-21T08:40:34.228247"
+      },
+      "f1ac37468aef8eb329be35beb0907bce0f970f78ea4eaf185fd714cfc1350189": {
+        "title": "刚刚，CVPR 2026放榜！朋友圈刷屏",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-21-5",
+        "published_date": "Sat, 21 Feb 2026 22:03:00 GMT",
+        "first_seen": "2026-02-21T23:30:56.059318"
+      },
+      "2477ed40c3bf15f70f8b4e538560deb5f1e98b9704ae8ce451b75cfe742429cd": {
+        "title": "不卷视频卷「造人」？Pika推出AI Selves，让你亲手「养大」数字分身",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-21-4",
+        "published_date": "Sat, 21 Feb 2026 22:01:00 GMT",
+        "first_seen": "2026-02-21T23:30:56.059507"
+      },
+      "b312d70f59c3661a0fdd6f0e661b9e0e6541a6986e31aa7cfb5b6c9a32fffd02": {
+        "title": "ICLR 2026 | 北航开源Code2Bench：双扩展动态评测，代码大模型告别躺平刷分",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-21-3",
+        "published_date": "Sat, 21 Feb 2026 21:56:00 GMT",
+        "first_seen": "2026-02-21T23:30:56.059800"
+      },
+      "ff9d014f0545717aaa22c6fb93866bfd01148ee8b974ffe71fb12a89a76be095": {
+        "title": "App Store模式过时了，未来属于即兴创作！Karpathy激进言论被「怼惨」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-21-2",
+        "published_date": "Sat, 21 Feb 2026 21:45:00 GMT",
+        "first_seen": "2026-02-21T23:30:56.060125"
+      },
+      "76b0c8eef97e1841a4db9e6ebf2273eb0df5a6fd651728d1c65f39f101a8b4ff": {
+        "title": "仅凭\"动作剪影\"，打通视频生成与机器人世界模型！BridgeV2W让机器人学会\"预演未来\"",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-21",
+        "published_date": "Sat, 21 Feb 2026 21:37:00 GMT",
+        "first_seen": "2026-02-21T23:30:56.060520"
       }
     },
     "Technology": {
-      "6c25786c0a274458d0588e9e5b0be00ceada593cdfc42b005c744417f525a46b": {
-        "title": "【钛晨报】央行行长潘功胜：2026年将继续实施好适度宽松的货币政策，发挥增量政策和存量政策集成效应；落实个人消费贷款最新财政贴息政策，六大行集体公告；商务部等9部门关于促进药品零售行业高质量发展的意见",
-        "link": "https://www.tmtpost.com/7852632.html",
-        "published_date": "Fri, 23 Jan 2026 07:20:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860350"
-      },
-      "02a5709074083d473757eff95ea8f3f2a2dd74e25ac2b350be1efc987007c4a5": {
-        "title": "斑马智行Auto Omni获中国汽车工程学会先进科技成果认证｜公司动态",
-        "link": "https://www.tmtpost.com/7852652.html",
-        "published_date": "Thu, 22 Jan 2026 21:58:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860303"
-      },
-      "64c21b668212b8af14908254bad2837307fa2a1ce3ff9e12d31a62a4b997ee4c": {
-        "title": "字节AI撒“豆”成兵",
-        "link": "https://www.tmtpost.com/7852333.html",
-        "published_date": "Thu, 22 Jan 2026 19:08:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860362"
-      },
-      "1b7d999f4c1e6cfa2c72f41c53bbd131bbe10da8891819598dd8dcf9e7b7c3c6": {
-        "title": "三次转型后终于踩准风口，“储能BMS第一股”冲上创业板",
-        "link": "https://www.tmtpost.com/7851317.html",
-        "published_date": "Thu, 22 Jan 2026 19:07:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860373"
-      },
-      "f55df8a65ecba0180337049c4f7f7b49aba8c12f3266711fd858235ac1a7a067": {
-        "title": "章泽天、罗永浩们扎堆入局，“视频播客”成流量新战场？",
-        "link": "https://www.tmtpost.com/7852330.html",
-        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860384"
-      },
-      "30a629c2b776fdf1bf51e7eba53819a73e7fbf69dc472a391058b7635d47b16f": {
-        "title": "2026年了，村里的老人会用AI了吗？",
-        "link": "https://www.tmtpost.com/7852481.html",
-        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860393"
-      },
-      "4b6df35f87f13651b98c9a4c4021705b530d6963e58400ba57c3a1d864e97959": {
-        "title": "飞书钉钉AI硬件争夺战：录音背后的入口之争",
-        "link": "https://www.tmtpost.com/7852258.html",
-        "published_date": "Thu, 22 Jan 2026 18:59:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860403"
-      },
-      "0f911fb7422cf7302cac24cb6322962d9e28bca904082b6132b95105b4239c50": {
-        "title": "易华录转型困局：募投项目叫停，现金流危机与ST风险双重压顶",
-        "link": "https://www.tmtpost.com/7852280.html",
-        "published_date": "Thu, 22 Jan 2026 18:29:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860413"
-      },
-      "3ddcd6ca68b1bb398ca010824c2841a3465dd3d0cf0d6097e242eb766617b541": {
-        "title": "金马游乐的转型焦虑：业绩波动加剧、毛利率下滑，定增加码机器人是解药吗？",
-        "link": "https://www.tmtpost.com/7852327.html",
-        "published_date": "Thu, 22 Jan 2026 18:25:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860423"
-      },
-      "8598e026c09ed02c1869a31a2a552529a37ad1b3bd9c55f05232238de05e06b5": {
-        "title": "“百元盲盒”击碎BJD高贵滤镜",
-        "link": "https://www.tmtpost.com/7852270.html",
-        "published_date": "Thu, 22 Jan 2026 17:59:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.682900"
-      },
-      "7e9bc4ffebc487df70a50919725ff91306b6828f45b7da77d076685a798d293f": {
-        "title": "Netflix：重要的剧情说三遍，以防观众在玩手机，大本和达蒙联手爆料行业幕后",
-        "link": "https://www.tmtpost.com/7852303.html",
-        "published_date": "Thu, 22 Jan 2026 17:59:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.683629"
-      },
-      "480145c432ec15c49d738d2e92589590a140589ca18e4260ef0f772f1dec2506": {
-        "title": "股价跌跌不休，股份行“差生”光大银行到底差哪了",
-        "link": "https://www.tmtpost.com/7852342.html",
-        "published_date": "Thu, 22 Jan 2026 17:56:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.684195"
-      },
-      "b09d0a927fec2b7b0ef89d91c25a49e12fc80a063a993c68a54f2c7d2cc15e41": {
-        "title": "智能时代，新兴科技品牌落地海外有哪些颠覆性变化？| CES 2026",
-        "link": "https://www.tmtpost.com/7852259.html",
-        "published_date": "Thu, 22 Jan 2026 17:30:00 GMT",
-        "first_seen": "2026-01-22T23:30:25.860332"
-      },
-      "1ce040a7eb9d089fdc21e1e92d88b4c792db73067f0817f09ea01fb9ca26368c": {
-        "title": "马斯克的底裤要被扒光了！超级爆料一个多小时， xAI 工程师被火速解雇",
-        "link": "https://www.infoq.cn/article/0ds6wQgBpN7W2N6EL1iM?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 22 Jan 2026 18:35:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.685710"
-      },
-      "13ea5d31dd395bf2d34584f0f415a18cd8f8cefd8145d1886a4704fc85cf119f": {
-        "title": "每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头",
-        "link": "https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 22 Jan 2026 15:41:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.686836"
-      },
-      "bffb6b209cedb37aa76c6d940354a4cb237858d6d48b05959f1c4f928fce87ef": {
-        "title": "尝试了几次周末一日游，我和「害怕看不完」的想法和解了",
-        "link": "https://sspai.com/post/105568",
-        "published_date": "Thu, 22 Jan 2026 17:30:00 GMT",
-        "first_seen": "2026-01-22T23:30:16.687700"
-      },
       "4a6a5572b132cd665f7499da9c3ec7cc5e36abcfbde49bc336ff5c0cc2d6cb5b": {
         "title": "射频芯片开启新的卡位赛",
         "link": "https://www.tmtpost.com/7852278.html",
@@ -11269,8 +11125,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-21T08:40:34.275402",
-    "Technology": "2026-02-21T08:40:34.327345",
-    "Finance": "2026-02-21T08:40:34.073722"
+    "AI": "2026-02-21T23:30:56.090240",
+    "Technology": "2026-02-21T23:30:56.138711",
+    "Finance": "2026-02-21T23:30:55.921473"
   }
 }

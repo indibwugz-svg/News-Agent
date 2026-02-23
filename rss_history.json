@@ -2469,30 +2469,6 @@
       }
     },
     "Technology": {
-      "109663de3ca65169b423baf69c888dc569f784d9febd466af6dc2b4a63697358": {
-        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
-        "link": "https://sspai.com/post/105679",
-        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-24T08:35:11.641900"
-      },
-      "6e234f9ac28b54e7f10b4f8c589b91e420f35ed1682639556839c7a0631a3bac": {
-        "title": "CFO汪骏走了，妨碍爱奇艺2026“来财”吗？",
-        "link": "https://www.tmtpost.com/7853981.html",
-        "published_date": "Sat, 24 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-24T08:35:11.642141"
-      },
-      "23aebc1e9a90c39d2e2e7e72080cdf961978a03485d8a04cbab60856a3166208": {
-        "title": "索尼“断臂求生”简史",
-        "link": "https://www.tmtpost.com/7853874.html",
-        "published_date": "Sat, 24 Jan 2026 09:18:00 GMT",
-        "first_seen": "2026-01-24T08:35:11.642392"
-      },
-      "a92357f508cfc9f5bd2c6285bdcebc5ebfd3806d46cc1088bd5ad86cc6e70bc0": {
-        "title": "又一家“GPU四小龙”来了，估值200亿，燧原科技冲刺科创板",
-        "link": "https://www.tmtpost.com/7854015.html",
-        "published_date": "Sat, 24 Jan 2026 09:16:00 GMT",
-        "first_seen": "2026-01-24T08:35:11.642816"
-      },
       "6af46a6a0d3df4a9478ba2bc82b54eb8100a6232411c3be87dc1b84f26e43116": {
         "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
         "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
@@ -10748,13 +10724,31 @@
         "link": "https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-23T06:09:26.274898"
+      },
+      "696535298186770687b5422bf9adb98371f91594c4ac4637baaa354e6d1892cd": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:57:43.253458"
+      },
+      "9c649398d02c052d96a350cb40c0153a3e460a86a37698101535ffd727dfc9cd": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:57:43.253664"
+      },
+      "6d18bd11f103fed3bb86d1890025f2c4f99d06e057609dd91c6472fef259bf45": {
+        "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
+        "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
+        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-23T08:57:43.253850"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-23T06:09:26.233473",
-    "Technology": "2026-02-23T06:09:26.281927",
-    "Finance": "2026-02-23T06:09:26.062150"
+    "AI": "2026-02-23T08:57:43.212954",
+    "Technology": "2026-02-23T08:57:43.274790",
+    "Finance": "2026-02-23T08:57:43.053649"
   }
 }

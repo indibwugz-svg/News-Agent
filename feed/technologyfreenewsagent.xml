@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 08:53:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 08:53:10 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:33:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenClaw 大更新：最值得关注的不是 GPT-5.4，而是 memory</title>
-      <link>https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenClaw 大更新：最值得关注的不是 GPT-5.4，而是 memory]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%</title>
+      <link>https://www.tmtpost.com/7907850.html</link>
+      <description>&lt;![CDATA[【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907850.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 也要 IPO 了，但这次只能争“全球第三”</title>
-      <link>https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 也要 IPO 了，但这次只能争“全球第三”]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw</title>
+      <link>https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了</title>
-      <link>https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>珠海冠宇33亿定增“豪赌”钢壳电池：苹果供应链红利下，增收不增利困局待解</title>
+      <link>https://www.tmtpost.com/7907764.html</link>
+      <description>&lt;![CDATA[珠海冠宇33亿定增“豪赌”钢壳电池：苹果供应链红利下，增收不增利困局待解]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 19:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907764.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“养虾”火遍全网，AI Agent 安全问题不容忽视</title>
-      <link>https://www.infoq.cn/article/t48Z8yiJ4rZGJZePxDLR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“养虾”火遍全网，AI Agent 安全问题不容忽视]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t48Z8yiJ4rZGJZePxDLR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当一只「龙虾」成了新市宠</title>
+      <link>https://www.tmtpost.com/7907012.html</link>
+      <description>&lt;![CDATA[当一只「龙虾」成了新市宠]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907012.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？</title>
-      <link>https://sspai.com/post/106710</link>
-      <description>&lt;![CDATA[年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/106710</guid>
+      <title>31岁华人女孩，狂赚90亿，靠AI成90后女首富</title>
+      <link>https://www.tmtpost.com/7906900.html</link>
+      <description>&lt;![CDATA[31岁华人女孩，狂赚90亿，靠AI成90后女首富]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906900.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？</title>
-      <link>http://www.huxiu.com/article/4840479.html?f=wangzhan</link>
-      <description>&lt;![CDATA[全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4840479.html?f=wangzhan</guid>
+      <title>一个时代的结束：网易、腾讯收缩海外工作室战线</title>
+      <link>https://www.tmtpost.com/7906852.html</link>
+      <description>&lt;![CDATA[一个时代的结束：网易、腾讯收缩海外工作室战线]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906852.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>B站，巨头眼里的香饽饽</title>
-      <link>http://www.huxiu.com/article/4840187.html?f=wangzhan</link>
-      <description>&lt;![CDATA[B站，巨头眼里的香饽饽]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 06:43:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4840187.html?f=wangzhan</guid>
+      <title>《Cell》“肝-脑运动信号轴”又有新见解！加州大学团队发现肝脏会分泌“护脑因子”，或可逆转记忆衰退</title>
+      <link>https://www.tmtpost.com/7906726.html</link>
+      <description>&lt;![CDATA[《Cell》“肝-脑运动信号轴”又有新见解！加州大学团队发现肝脏会分泌“护脑因子”，或可逆转记忆衰退]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906726.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“养龙虾”越火，大厂越没空Token出海</title>
+      <link>https://www.tmtpost.com/7907500.html</link>
+      <description>&lt;![CDATA[“养龙虾”越火，大厂越没空Token出海]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907500.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>你可能没那么需要OpenClaw</title>
+      <link>https://www.tmtpost.com/7907524.html</link>
+      <description>&lt;![CDATA[你可能没那么需要OpenClaw]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907524.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>挡住豆包的那堵墙，被“龙虾”推倒了</title>
+      <link>https://www.tmtpost.com/7907494.html</link>
+      <description>&lt;![CDATA[挡住豆包的那堵墙，被“龙虾”推倒了]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907494.html</guid>
       <category>Technology</category>
     </item>
   </channel>

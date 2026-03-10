@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 05:51
+**最后更新时间**: 2026-03-10 08:53
+
+---
+
+## 🆕 最新更新 (2026-03-10 08:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenClaw 大更新：最值得关注的不是 GPT-5.4，而是 memory](https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 16:00
+
+#### [OpenAI 也要 IPO 了，但这次只能争“全球第三”](https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:45
+
+#### [“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了](https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:38
+
+#### [“养虾”火遍全网，AI Agent 安全问题不容忽视](https://www.infoq.cn/article/t48Z8yiJ4rZGJZePxDLR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？](https://sspai.com/post/106710)
+**发布时间**: 2026-03-10 14:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？](http://www.huxiu.com/article/4840479.html?f=wangzhan)
+**发布时间**: 2026-03-10 09:42
+
+#### [B站，巨头眼里的香饽饽](http://www.huxiu.com/article/4840187.html?f=wangzhan)
+**发布时间**: 2026-03-10 06:43
 
 ---
 

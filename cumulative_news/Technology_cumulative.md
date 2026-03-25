@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 06:05
+**最后更新时间**: 2026-03-25 23:41
+
+---
+
+## 🆕 最新更新 (2026-03-25 23:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】加快建立长期护理保险制度，中办、国办最新部署；拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿；SpaceX计划最早于本周提交IPO申请筹集超过750亿美元资金](https://www.tmtpost.com/7929223.html)
+**发布时间**: 2026-03-26 07:20
+
+#### [影石再次回应大疆起诉，影翎融资进程或被诉案波及 ｜钛媒体出海参考](https://www.tmtpost.com/7928897.html)
+**发布时间**: 2026-03-25 21:34
+
+#### [Practical Playbooks for Putting AI into Action at IBM and Schneider Electric in China](https://www.tmtpost.com/7929217.html)
+**发布时间**: 2026-03-25 21:19
+
+#### [光象科技半年融资超 1 亿元， IDG资本领投天使轮｜融资速递](https://www.tmtpost.com/7929167.html)
+**发布时间**: 2026-03-25 21:14
+
+#### [50 亿龙头折戟 IPO 后被并购：广和通跨界收购背后的增长焦虑与野心丨并购一线](https://www.tmtpost.com/7929130.html)
+**发布时间**: 2026-03-25 20:04
+
+#### [5倍AI应用牛股易点天下增收不增利，赴港IPO前实控人携创业伙伴套现4.45亿 | 看财报](https://www.tmtpost.com/7929135.html)
+**发布时间**: 2026-03-25 19:47
+
+#### [杀入千元机，华为新品欲拿回中低端？](https://www.tmtpost.com/7927262.html)
+**发布时间**: 2026-03-25 19:24
+
+#### [地产酒店的万达“样本”](https://www.tmtpost.com/7927924.html)
+**发布时间**: 2026-03-25 19:19
+
+#### [中国通用大模型十强争霸：谁配得上“第一”这个称号？](https://www.tmtpost.com/7928697.html)
+**发布时间**: 2026-03-25 19:19
+
+#### [《异环》来了，二次元游戏却要凉了？](https://www.tmtpost.com/7928986.html)
+**发布时间**: 2026-03-25 19:19
+
+#### [慕思发布鸿蒙新品智能床；老铺黄金去年营收273亿元同增221%；蜜雪去年营收335.6亿元；小阔集团携手华晨宇共创日化家居品牌｜消研所日报](https://www.tmtpost.com/7928467.html)
+**发布时间**: 2026-03-25 18:46
+
+#### [AI客服的善恶生意经：一边是人工智障，一边是暴力催收](https://www.tmtpost.com/7928409.html)
+**发布时间**: 2026-03-25 18:36
+
+#### [茅台“酒糟变黄金”，万亿巨头跨界宠物赛道的野心与焦虑](https://www.tmtpost.com/7928770.html)
+**发布时间**: 2026-03-25 18:36
+
+#### [搞了半天，Sora原来不赚钱啊？OpenAI突然杀死自己的明星产品，电影行业跟着躺枪](https://www.tmtpost.com/7928866.html)
+**发布时间**: 2026-03-25 18:36
+
+#### [AI的红利，阅文吃一口，字节吃一锅](https://www.tmtpost.com/7928972.html)
+**发布时间**: 2026-03-25 18:34
+
+#### [担心的事还是发生了，真有人给龙虾“投毒”](https://www.tmtpost.com/7928958.html)
+**发布时间**: 2026-03-25 18:32
+
+#### [“龙虾思想”背后：把AI战火正式推向软件层](https://www.tmtpost.com/7928874.html)
+**发布时间**: 2026-03-25 18:29
+
+#### [Sora没了，但Seedance还不能躺平](https://www.tmtpost.com/7928955.html)
+**发布时间**: 2026-03-25 18:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AutoGenesis：基于 AI + MCP 的跨平台自动化测试实践](https://www.infoq.cn/article/TLJa16KNgIXb1HB1Nvtg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 20:43
+
+#### [“聊天干活”只需扫个码：微信ClawBot官配WorkBuddy，自家出品就是快](https://www.infoq.cn/article/D1ZIFEbcxoHVOvp8oZ87?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 17:39
+
+#### [Snowflake 的 AI 驱动预测性维护 ｜ 技术实践](https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 16:22
+
+#### [Sora关停背后：为啥它没跑成“视频版ChatGPT”？](https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 15:53
+
+#### [Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性](https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 15:00
+
+#### [2026中国企业AI应用场景报告](https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 14:32
+
+#### [养虾深水区观察：ArkClaw 的成本逻辑、玩法演进与安全边界](https://www.infoq.cn/article/teJ7LpJQyEXkqMrqRYGf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 14:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」](https://sspai.com/post/107800)
+**发布时间**: 2026-03-25 17:42
+
+#### [探访帝国之心，吴哥旅行完全指南（下）：景点体验](https://sspai.com/post/106822)
+**发布时间**: 2026-03-25 16:00
+
+#### [直面「猝死」这个话题：你需要了解哪些知识？](https://sspai.com/post/65228)
+**发布时间**: 2026-03-25 14:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [车企盯上有钱人，“9系”大战一触即发](http://www.huxiu.com/article/4842768.html?f=wangzhan)
+**发布时间**: 2026-03-25 07:14
+
+#### [高端日料没人吃了？](http://www.huxiu.com/article/4843942.html?f=wangzhan)
+**发布时间**: 2026-03-24 19:00
+
+#### [从万众期待到路边一X，国行Switch是如何走到关服停运的呢？](http://www.huxiu.com/article/4843911.html?f=wangzhan)
+**发布时间**: 2026-03-24 18:00
+
+#### [9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”](http://www.huxiu.com/article/4844808.html?f=wangzhan)
+**发布时间**: 2026-03-24 14:38
 
 ---
 

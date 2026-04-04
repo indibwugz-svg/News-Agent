@@ -1380,6 +1380,12 @@
         "link": "https://www.qbitai.com/2026/04/395995.html",
         "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
         "first_seen": "2026-04-04T06:04:12.061045"
+      },
+      "211e9c6d8691c7dd9e3fd2ddeb4194026ed0e62cd72890088e1ac205b167b2df": {
+        "title": "联想重新定义“龙虾”",
+        "link": "https://www.qbitai.com/2026/04/396015.html",
+        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.926888"
       }
     },
     "Technology": {
@@ -11900,13 +11906,49 @@
         "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-04T06:04:02.600206"
+      },
+      "334512a3133a9e880aa0d5e35addc8f08d8b42cc48b18c7ed09f62a20f9ce9f2": {
+        "title": "Anthropic拒绝龙虾吃自助餐，中国token大厂笑了",
+        "link": "https://www.tmtpost.com/7941769.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.713976"
+      },
+      "ecbb4f72436e5df90485ccc2541c867b85392a015bd046a5682314561c5c5c7d": {
+        "title": "大厂们为啥不让自家员工用别家大模型？",
+        "link": "https://www.tmtpost.com/7941699.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.714120"
+      },
+      "8e626e6d6dddbd230ca722ab5c63ad4d5b9c7b6472b5d436ff85055acb4a9771": {
+        "title": "“打不死的小强”尹阔：流水线工人走到港交所门口，他还能把参半带到什么高度？",
+        "link": "https://www.tmtpost.com/7941723.html",
+        "published_date": "Sat, 04 Apr 2026 14:38:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.714295"
+      },
+      "eb3b1595c13b38b88c22d2d3eb725523edc9482d57de4a90d3e5f8c263a59d63": {
+        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
+        "link": "https://www.tmtpost.com/7941760.html",
+        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.714453"
+      },
+      "ac592b819007734a1f904838e52f1003b63feae737be1dad64b7a0bec17a1e2e": {
+        "title": "跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”",
+        "link": "https://www.tmtpost.com/7941745.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.714697"
+      },
+      "1942f18192667516809752ec14e62c3bba98e27854336d7f9e52e6d6adb70603": {
+        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
+        "link": "https://www.tmtpost.com/7941770.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:52:10.714966"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-04T06:04:12.068264",
-    "Technology": "2026-04-04T06:04:11.892741",
-    "Finance": "2026-04-04T06:04:11.912373"
+    "AI": "2026-04-04T08:52:10.934165",
+    "Technology": "2026-04-04T08:52:10.764071",
+    "Finance": "2026-04-04T08:52:10.783929"
   }
 }

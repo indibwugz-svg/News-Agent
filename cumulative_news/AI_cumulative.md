@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-09 06:23
+**最后更新时间**: 2026-04-09 23:41
+
+---
+
+## 🆕 最新更新 (2026-04-09 23:41)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ConvApparel: Measuring and bridging the realism gap in user simulators](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/)
+**发布时间**: 2026-04-09 11:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…](https://www.qbitai.com/2026/04/398157.html)
+**发布时间**: 2026-04-09 09:38
+
+#### [Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注](https://www.qbitai.com/2026/04/398140.html)
+**发布时间**: 2026-04-09 07:08
+
+#### [Claude封杀龙虾后推自家Agent服务，又被开源平替了](https://www.qbitai.com/2026/04/398121.html)
+**发布时间**: 2026-04-09 06:59
+
+#### [阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户](https://www.qbitai.com/2026/04/398117.html)
+**发布时间**: 2026-04-09 06:23
 
 ---
 

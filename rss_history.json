@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "211e9c6d8691c7dd9e3fd2ddeb4194026ed0e62cd72890088e1ac205b167b2df": {
-        "title": "联想重新定义“龙虾”",
-        "link": "https://www.qbitai.com/2026/04/396015.html",
-        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.926888"
-      },
       "b54546b372e7ea37d994021f60eb2947a0dd0ad1c214323871ca681926bff0cc": {
         "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
         "link": "https://www.qbitai.com/2026/04/396346.html",
@@ -1413,42 +1407,6 @@
       }
     },
     "Technology": {
-      "334512a3133a9e880aa0d5e35addc8f08d8b42cc48b18c7ed09f62a20f9ce9f2": {
-        "title": "Anthropic拒绝龙虾吃自助餐，中国token大厂笑了",
-        "link": "https://www.tmtpost.com/7941769.html",
-        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.713976"
-      },
-      "ecbb4f72436e5df90485ccc2541c867b85392a015bd046a5682314561c5c5c7d": {
-        "title": "大厂们为啥不让自家员工用别家大模型？",
-        "link": "https://www.tmtpost.com/7941699.html",
-        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.714120"
-      },
-      "8e626e6d6dddbd230ca722ab5c63ad4d5b9c7b6472b5d436ff85055acb4a9771": {
-        "title": "“打不死的小强”尹阔：流水线工人走到港交所门口，他还能把参半带到什么高度？",
-        "link": "https://www.tmtpost.com/7941723.html",
-        "published_date": "Sat, 04 Apr 2026 14:38:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.714295"
-      },
-      "eb3b1595c13b38b88c22d2d3eb725523edc9482d57de4a90d3e5f8c263a59d63": {
-        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
-        "link": "https://www.tmtpost.com/7941760.html",
-        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.714453"
-      },
-      "ac592b819007734a1f904838e52f1003b63feae737be1dad64b7a0bec17a1e2e": {
-        "title": "跨界光伏1年亏掉8年赚的钱，天宜新材等来紫光系“白衣骑士”",
-        "link": "https://www.tmtpost.com/7941745.html",
-        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.714697"
-      },
-      "1942f18192667516809752ec14e62c3bba98e27854336d7f9e52e6d6adb70603": {
-        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
-        "link": "https://www.tmtpost.com/7941770.html",
-        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
-        "first_seen": "2026-04-04T08:52:10.714966"
-      },
       "fa1e5775dde3ecc192fc8f6ab8e047a226b0888eb2341eb404a4be17d1a7ded8": {
         "title": "药师帮净利大增409，但依然处在艰难十字路口",
         "link": "https://www.tmtpost.com/7941465.html",
@@ -10016,13 +9974,73 @@
         "link": "http://www.geekpark.net/news/363701",
         "published_date": "Mon, 04 May 2026 08:10:00 GMT",
         "first_seen": "2026-05-04T07:50:47.102787"
+      },
+      "323cd29883c9f98f79c8a77fe84ab35d66c59f63bff8dab02f1d2a7817fc41ba": {
+        "title": "一部“黑神话菩提”，“撕裂”红果AI短剧",
+        "link": "https://www.tmtpost.com/7976139.html",
+        "published_date": "Mon, 04 May 2026 16:48:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.688882"
+      },
+      "e12e8dcde604262eff7765e25efa67881368fb2bd4ddf34a8ecae05dada6456c": {
+        "title": "Reddit：美美享受商业化加速的红利期",
+        "link": "https://www.tmtpost.com/7976123.html",
+        "published_date": "Mon, 04 May 2026 16:33:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.689066"
+      },
+      "534cd46ab4979d6c2f50b14144f03a8096dbc6824f965ca3c216375fed583032": {
+        "title": "擎天租30亿，租机器人的值两成",
+        "link": "https://www.tmtpost.com/7975979.html",
+        "published_date": "Mon, 04 May 2026 16:16:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.689232"
+      },
+      "6edcb99733a13b534d2603bd301c73bee4c2f5246237f09b1dc1fecaf525226f": {
+        "title": "从冰箱溢价到乐园涨价，泡泡玛特还有什么杀招？",
+        "link": "https://www.tmtpost.com/7976084.html",
+        "published_date": "Mon, 04 May 2026 16:09:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.689381"
+      },
+      "0726f28e4a98139355b86ecf79929c4d7a5e12a95d85d07333712464a1d5b26f": {
+        "title": "狂飙与逆风：合成生物学龙头冲刺港股",
+        "link": "https://www.tmtpost.com/7976074.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.689540"
+      },
+      "73ec5a8a93843bcfef2bc21efc396b8a13e7f1868478627952bd869b4a7e2092": {
+        "title": "全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局",
+        "link": "https://www.tmtpost.com/7976159.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.689791"
+      },
+      "7006b930a78cdd77f1fee4628dc26f2d60f5a25d0a08affdc4218196dc4b8e5a": {
+        "title": "Rivian: 阵痛前行，R2 能否带领 Rivian “逆风翻盘” ？",
+        "link": "https://www.tmtpost.com/7976129.html",
+        "published_date": "Mon, 04 May 2026 16:03:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.690116"
+      },
+      "541ac2005d1ba5368b7ce64bfe59d7dbe1cc78fe34e1b15e43475b2d3c5f61f1": {
+        "title": "黄仁勋：有些CEO总喜欢装上帝，阿莫迪：你直接报我身份证得了",
+        "link": "https://www.tmtpost.com/7976168.html",
+        "published_date": "Mon, 04 May 2026 16:03:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.690486"
+      },
+      "4cf6687e6f0373555c28111652a941330c188cea67595e8bb181d6a404e9eb48": {
+        "title": "豆包将新增付费订阅服务，标准版每月68元",
+        "link": "https://www.tmtpost.com/7976316.html",
+        "published_date": "Mon, 04 May 2026 08:36:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.690758"
+      },
+      "8444ef0cd2d720a050f6fce5f5d479bb3ee51e721ab93fb50bf948b2fce17916": {
+        "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+        "link": "https://sspai.com/post/109277",
+        "published_date": "Mon, 04 May 2026 15:00:00 GMT",
+        "first_seen": "2026-05-04T10:20:30.691268"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-04T07:50:37.730997",
-    "Technology": "2026-05-04T07:50:47.106184",
-    "Finance": "2026-05-04T07:50:37.606526"
+    "AI": "2026-05-04T10:20:30.592081",
+    "Technology": "2026-05-04T10:20:30.711809",
+    "Finance": "2026-05-04T10:20:30.481195"
   }
 }

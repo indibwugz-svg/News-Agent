@@ -1566,6 +1566,24 @@
         "link": "https://www.qbitai.com/2026/07/456061.html",
         "published_date": "Wed, 22 Jul 2026 00:34:00 GMT",
         "first_seen": "2026-07-22T07:39:35.031098"
+      },
+      "929772eed40210b32375558a2159e0b6d2e04c8a2fb263a7b6ffcf93f5c5528b": {
+        "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+        "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+        "published_date": "Wed, 22 Jul 2026 21:32:00 GMT",
+        "first_seen": "2026-07-23T00:08:26.033901"
+      },
+      "11ef49324e25aa7c164efdbc7b5aa8250e288afb1d69d9ebb35bf6a552238ff5": {
+        "title": "Towards a quantum computer that learns from its errors",
+        "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+        "published_date": "Wed, 22 Jul 2026 18:40:00 GMT",
+        "first_seen": "2026-07-23T00:08:26.034139"
+      },
+      "404a039d398207c7a14305d0a6e619c00754d65b2e4abf1d04d026ccd615243d": {
+        "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+        "link": "https://www.qbitai.com/2026/07/457223.html",
+        "published_date": "Wed, 22 Jul 2026 17:35:00 GMT",
+        "first_seen": "2026-07-23T00:08:26.034300"
       }
     },
     "Technology": {
@@ -10286,13 +10304,97 @@
         "link": "https://sspai.com/post/111550",
         "published_date": "Wed, 22 Jul 2026 15:00:00 GMT",
         "first_seen": "2026-07-22T10:31:45.128160"
+      },
+      "866f573029b5003d6cfa51831b9adcd1c22fafdd37bec94062496ce6fc0ee88a": {
+        "title": "【钛晨报】体育强国建设“十五五”规划发布，到2030年产业规模破7万亿元；OpenAI计划到2030年云支出达7500亿美元；北京国管：已统筹自有资金累计投入近百亿元布局股票市场",
+        "link": "https://www.tmtpost.com/8075793.html",
+        "published_date": "Thu, 23 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921795"
+      },
+      "c4c4ad2c3c687d6080ed17ccfd0359ecc6ff0d26a1382c3efe8136b96bf53c5e": {
+        "title": "端侧觉醒：当AI长出\"身体\"，热闹之后拼什么？｜ WAIC2026",
+        "link": "https://www.tmtpost.com/8074962.html",
+        "published_date": "Wed, 22 Jul 2026 23:28:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921836"
+      },
+      "ad404ad7603ef2c7b8ae4585e6fec94947b9b373508b4abb9963010d5943fe91": {
+        "title": "深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深",
+        "link": "https://www.tmtpost.com/8075899.html",
+        "published_date": "Wed, 22 Jul 2026 23:17:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921762"
+      },
+      "931986e315ecc43c6a2d9ab85cabe99eb09e20258c55d5e14bc6da1dff4681da": {
+        "title": "上市公司TOP5济安评估 （7月13日至7月19日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8075894.html",
+        "published_date": "Wed, 22 Jul 2026 23:17:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921847"
+      },
+      "b4558927a1d161507deaa0210af0f012dc401863fb8d55ab25ef91583ce2969d": {
+        "title": "价值判断：跌停板的投资机会和风险提示（7月21日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8075874.html",
+        "published_date": "Wed, 22 Jul 2026 22:44:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921858"
+      },
+      "6c4637a8ddcab74b49959976e4c5d29738c87ea044feb68c50eeb4167c2bdfca": {
+        "title": "五洲医疗跨界半导体：上市三年营收利润“双杀”，一份“留白”预案撬动20cm涨停丨并购一线",
+        "link": "https://www.tmtpost.com/8075761.html",
+        "published_date": "Wed, 22 Jul 2026 21:47:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921870"
+      },
+      "abc415d3a49fe083e84f0e0775f76daf996e6172c710bed3cff6c98195b8f2ae": {
+        "title": "Why Japan Has Become a Graveyard for China’s Bubble Tea Kings",
+        "link": "https://www.tmtpost.com/8075658.html",
+        "published_date": "Wed, 22 Jul 2026 19:03:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921883"
+      },
+      "b30128200e9c715980181c907672a088555c56353c60ddeb74b58e443a7ceb7f": {
+        "title": "AI内容全球化：短剧、影视与互动内容的下一程 ｜WAIC2026",
+        "link": "https://www.tmtpost.com/8075471.html",
+        "published_date": "Wed, 22 Jul 2026 18:47:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921893"
+      },
+      "27e3cee6d3124a95f45332a67fc2ab41a976bd32255ff857aac7166e1cd6a3a5": {
+        "title": "下班后，他们去送外卖、摇奶茶、搬货：年轻人开始“带薪减肥”",
+        "link": "https://www.tmtpost.com/8075201.html",
+        "published_date": "Wed, 22 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-23T00:08:16.645810"
+      },
+      "8339efcfd10ce308425288cfa204a95b7e75defb11e4e35b59392b067afebeca": {
+        "title": "让马斯克紧张，Kimi K3震动华尔街",
+        "link": "https://www.tmtpost.com/8075283.html",
+        "published_date": "Wed, 22 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-23T00:08:16.646218"
+      },
+      "efbd49cb936b3ff38304cd064c45eac8a6eb728a8b2f08376126490d34ff270e": {
+        "title": "小细胞肺癌的“诸神黄昏”",
+        "link": "https://www.tmtpost.com/8075457.html",
+        "published_date": "Wed, 22 Jul 2026 18:26:00 GMT",
+        "first_seen": "2026-07-23T00:08:16.646560"
+      },
+      "b282a0452e6828dc3437221a38b76b2f6ae33d1ca522fda0550c1364ef078cab": {
+        "title": "加速 AI Readiness：借助 Snowflake CoWork 从数据走向实时答案 ｜ Summit 2026",
+        "link": "https://www.infoq.cn/video/l6UhmOLGpL7Q4bHlsRXy?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Jul 2026 21:49:00 GMT",
+        "first_seen": "2026-07-23T00:08:16.647607"
+      },
+      "617ae6e07ade1a90bee52f254db6d902287856ed86ab74321c387eb73edd79b7": {
+        "title": "驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Jul 2026 18:44:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921811"
+      },
+      "13a9c08c668a8fcd9aa8325fb5a5c5066da54dcb62c47d7a68f6375ea1af0865": {
+        "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？",
+        "link": "https://sspai.com/post/112545",
+        "published_date": "Wed, 22 Jul 2026 17:43:00 GMT",
+        "first_seen": "2026-07-23T00:08:25.921823"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-22T10:31:54.693992",
-    "Technology": "2026-07-22T10:31:54.581049",
-    "Finance": "2026-07-22T10:31:45.009345"
+    "AI": "2026-07-23T00:08:26.040614",
+    "Technology": "2026-07-23T00:08:25.937672",
+    "Finance": "2026-07-23T00:08:16.548127"
   }
 }

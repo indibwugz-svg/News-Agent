@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-28 20:07
+**最后更新时间**: 2026-08-29 11:34
+
+---
+
+## 🆕 最新更新 (2026-08-29 11:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [MiniMax 的中报魔术：亏损在收窄，烧钱在加速](https://www.tmtpost.com/8121654.html)
+**发布时间**: 2026-08-29 15:50
+
+#### [硬科技，开始拯救商场了](https://www.tmtpost.com/8121664.html)
+**发布时间**: 2026-08-29 15:50
+
+#### [收入暴涨20倍，壁仞科技杀疯了](https://www.tmtpost.com/8121667.html)
+**发布时间**: 2026-08-29 15:50
+
+#### [今年最好的机器人落地场景，可能在上海一家冰淇凌店](https://www.tmtpost.com/8121421.html)
+**发布时间**: 2026-08-29 15:33
+
+#### [宇树市值大跌后，能否继续扛起具身智能大旗](https://www.tmtpost.com/8121600.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [垂类App正在集体“消失”](https://www.tmtpost.com/8121590.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [273号文最大的溢出效应：AI随访成「刚需」](https://www.tmtpost.com/8121563.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [农村商业下沉了20年，县城为什么又开始成为主角](https://www.tmtpost.com/8121533.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [腾讯猛踩油门，混元追赶的127天](https://www.tmtpost.com/8121424.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [供应链有最优解，但没有人能把它算出来](https://www.tmtpost.com/8110563.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [一个月连上三部，AI长片在今年夏天走入拐点](https://www.tmtpost.com/8121339.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [B站活成大厂最想活成的样子](https://www.tmtpost.com/8121332.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [被错杀的MiniMax，到底有多能打？](https://www.tmtpost.com/8121322.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [暴涨的拉夫劳伦，也有过自己的「奥德赛时刻」](https://www.tmtpost.com/8121321.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [孙哥为啥没去酒店退款？](https://www.tmtpost.com/8121277.html)
+**发布时间**: 2026-08-29 12:46
+
+#### [人形机器人，进入淘汰赛](https://www.tmtpost.com/8121235.html)
+**发布时间**: 2026-08-29 12:19
+
+#### [影石的利润，被谁拿走了？](https://www.tmtpost.com/8121275.html)
+**发布时间**: 2026-08-29 12:19
+
+#### [这届游客，开始把民宿住成“体验课”](https://www.tmtpost.com/8121273.html)
+**发布时间**: 2026-08-29 12:19
+
+#### [孙宇晨往事](https://www.tmtpost.com/8121579.html)
+**发布时间**: 2026-08-29 11:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷](http://www.geekpark.net/news/369550)
+**发布时间**: 2026-08-29 13:58
+
+#### [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃](http://www.geekpark.net/news/369549)
+**发布时间**: 2026-08-29 08:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用](https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-29 13:19
+
+#### [Agent 时代，为什么有人开始重新造 Google？](https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-29 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2026 烟灶选购指南](https://sspai.com/post/112775)
+**发布时间**: 2026-08-29 09:20
 
 ---
 
